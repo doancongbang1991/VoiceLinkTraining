@@ -1,6 +1,9 @@
 import Custom_core.CoreTaskCustom #@UnusedImport
 import Custom_Common.VoiceLinkLutCustom #@UnusedImport
 import Custom_Selection.PickPromptMultipleCustom #@UnusedImport
+
+from common.VoiceLinkLut import lut_def_files
+lut_def_files.append('LUTDefinition_Custom.properties')
 import multi_scan_fix
 
 from core.VoiceLink import voicelink_startup

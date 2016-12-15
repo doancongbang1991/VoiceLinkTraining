@@ -388,19 +388,19 @@
           <record data= "3,selection region 3,0,"/>
       </response>
       <response  name="Selection: Picking Region" endOfRecord="\n" expression="prTaskLUTPickingRegion.*">
-          <record data= "1,dry grocery,1,1,1,1,1,0,0,0,1,1,0,0,0,1,1,4,0,1,0,,,,,1,0,0,2,0,0,"/>
+          <record data= "1,dry grocery,1,1,1,1,1,0,0,0,2,1,0,0,0,1,1,4,0,1,0,,,,,1,0,0,2,0,0,"/>
       </response>
       <response name="Selection: Get Assignment" endOfRecord="\n" expression="prTaskLUTGetAssignment.*">
           <record data="1,0,111,Store 111,1,15,R12,0,0,0,Override summary prompt,0," />
           <record data="1,0,222,Store 222,2,15,R12,0,0,0,Override summary prompt,0," />
       </response>
       <response name="Selection: Get Picks" endOfRecord="\n" expression="prTaskLUTGetPicks.*">
-          <record data="N,0,1,L1,1,,A 1,,S 1,5,,ITEM11,0,0.0,0.0,0,00,,,,,,111,Store 111,0,,store,,0,0,,,0,0,0,0,0," />
-          <record data="N,0,1,L1,1,,A 1,,S 1,5,,ITEM11,0,0.0,0.0,0,00,,,,,,222,Store 222,0,,store,,0,0,,,0,0,0,0,0," />
-          <record data="N,0,1,L2,1,,A 1,,S 2,5,,ITEM12,0,0.0,0.0,0,00,,,,,,111,Store 111,0,,store,,0,0,,,0,0,0,0,0," />
-          <record data="N,0,1,L2,1,,A 2,,S 2,5,,ITEM12,0,0.0,0.0,0,00,,,,,,222,Store 222,0,,store,,0,0,,,0,0,0,0,0," />
-          <record data="N,0,1,L3,1,,A 2,,S 3,5,,ITEM13,0,0.0,0.0,0,00,,,,,,111,Store 111,0,,store,,0,0,,,0,0,0,0,0," />
-          <record data="N,0,1,L4,1,,A 2,,S 4,5,,ITEM14,0,0.0,0.0,0,00,,,,,,222,Store 222,0,,store,,0,0,,,0,0,0,0,0," />
+          <record data="N,0,1,L1,1,,A 1,,S 1,5,,ITEM11,0,0.0,0.0,0,00,12,13,,,,111,Store 111,0,,store,,0,0,,,0,0,0,0,0," />
+          <record data="N,0,1,L1,1,,A 1,,S 1,5,,ITEM11,0,0.0,0.0,0,00,12,13,,,,222,Store 222,0,,store,,0,0,,,0,0,0,0,0," />
+          <record data="N,0,1,L2,1,,A 1,,S 2,5,,ITEM12,0,0.0,0.0,0,00,12,13,,,,111,Store 111,0,,store,,0,0,,,0,0,0,0,0," />
+          <record data="N,0,1,L2,1,,A 2,,S 2,5,,ITEM12,0,0.0,0.0,0,00,12,13,,,,222,Store 222,0,,store,,0,0,,,0,0,0,0,0," />
+          <record data="N,0,1,L3,1,,A 2,,S 3,5,,ITEM13,0,0.0,0.0,0,00,12,13,,,,111,Store 111,0,,store,,0,0,,,0,0,0,0,0," />
+          <record data="N,0,1,L4,1,,A 2,,S 4,5,,ITEM14,0,0.0,0.0,0,00,12,13,,,,222,Store 222,0,,store,,0,0,,,0,0,0,0,0," />
       </response>
       <response  name="Selection: Update Status" endOfRecord="\n" expression="prTaskLUTUpdateStatus.*">
           <record data= "0,"/>

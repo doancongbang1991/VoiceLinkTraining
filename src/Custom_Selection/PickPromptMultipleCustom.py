@@ -21,7 +21,7 @@ class PickPromptMultipleTask_Custom(PickPromptMultipleTask):
             result = prompt_digits_required(itext('selection.pick.prompt.pvid'), 
                                             itext('selection.pick.prompt.pvid.help'), 
                                             [self._pvid],
-                                            [self._pick[0]['scannedPrcdID']], 
+                                            [self._picks[0]['scannedProdID']], 
                                             {'skip slot' : False})
         if result[0] == 'skip slot':
             self.next_state = PVID_VERYFICATION
@@ -39,7 +39,7 @@ class PickPromptMultipleTask_Custom(PickPromptMultipleTask):
         '''Multiple Prompts''' 
         result = prompt_digits_required(self._picks[0]["slot"],
                                                     itext("selection.pick.prompt.checkdigit.help"), 
-                                                    [self._picks[0]["checkDigits"], self._pvid], 
+                                                    [self._picks[0]["checkDigits"]], 
                                                     None, 
                                                     {'ready' : False, 'skip slot' : False})
         if result == 'skip slot':
