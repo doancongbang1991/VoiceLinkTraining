@@ -1,0 +1,1795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<voiceApplicationConfig>
+  <embeddedTraining>
+    <phrase>
+      <word>0</word>
+      <word>.</word>
+      <word>0</word>
+    </phrase>
+    <phrase>
+      <word>0</word>
+      <word>0</word>
+      <word>0</word>
+    </phrase>
+    <phrase>
+      <word>0</word>
+      <word>2</word>
+      <word>0</word>
+    </phrase>
+    <phrase>
+      <word>0</word>
+      <word>4</word>
+      <word>0</word>
+    </phrase>
+    <phrase>
+      <word>0</word>
+      <word>6</word>
+      <word>0</word>
+    </phrase>
+    <phrase>
+      <word>0</word>
+      <word>8</word>
+      <word>0</word>
+    </phrase>
+    <phrase>
+      <word>0</word>
+      <word>ready</word>
+    </phrase>
+    <phrase>
+      <word>1</word>
+      <word>.</word>
+      <word>1</word>
+    </phrase>
+    <phrase>
+      <word>1</word>
+      <word>0</word>
+      <word>1</word>
+    </phrase>
+    <phrase>
+      <word>1</word>
+      <word>1</word>
+      <word>1</word>
+    </phrase>
+    <phrase>
+      <word>1</word>
+      <word>3</word>
+      <word>1</word>
+    </phrase>
+    <phrase>
+      <word>1</word>
+      <word>5</word>
+      <word>1</word>
+    </phrase>
+    <phrase>
+      <word>1</word>
+      <word>7</word>
+      <word>1</word>
+    </phrase>
+    <phrase>
+      <word>1</word>
+      <word>9</word>
+      <word>1</word>
+    </phrase>
+    <phrase>
+      <word>1</word>
+      <word>ready</word>
+    </phrase>
+    <phrase>
+      <word>2</word>
+      <word>.</word>
+      <word>2</word>
+    </phrase>
+    <phrase>
+      <word>2</word>
+      <word>1</word>
+      <word>2</word>
+    </phrase>
+    <phrase>
+      <word>2</word>
+      <word>2</word>
+      <word>2</word>
+    </phrase>
+    <phrase>
+      <word>2</word>
+      <word>4</word>
+      <word>2</word>
+    </phrase>
+    <phrase>
+      <word>2</word>
+      <word>6</word>
+      <word>2</word>
+    </phrase>
+    <phrase>
+      <word>2</word>
+      <word>8</word>
+      <word>2</word>
+    </phrase>
+    <phrase>
+      <word>2</word>
+      <word>ready</word>
+    </phrase>
+    <phrase>
+      <word>3</word>
+      <word>.</word>
+      <word>3</word>
+    </phrase>
+    <phrase>
+      <word>3</word>
+      <word>0</word>
+      <word>3</word>
+    </phrase>
+    <phrase>
+      <word>3</word>
+      <word>2</word>
+      <word>3</word>
+    </phrase>
+    <phrase>
+      <word>3</word>
+      <word>3</word>
+      <word>3</word>
+    </phrase>
+    <phrase>
+      <word>3</word>
+      <word>5</word>
+      <word>3</word>
+    </phrase>
+    <phrase>
+      <word>3</word>
+      <word>7</word>
+      <word>3</word>
+    </phrase>
+    <phrase>
+      <word>3</word>
+      <word>9</word>
+      <word>3</word>
+    </phrase>
+    <phrase>
+      <word>3</word>
+      <word>ready</word>
+    </phrase>
+    <phrase>
+      <word>4</word>
+      <word>.</word>
+      <word>4</word>
+    </phrase>
+    <phrase>
+      <word>4</word>
+      <word>1</word>
+      <word>4</word>
+    </phrase>
+    <phrase>
+      <word>4</word>
+      <word>3</word>
+      <word>4</word>
+    </phrase>
+    <phrase>
+      <word>4</word>
+      <word>4</word>
+      <word>4</word>
+    </phrase>
+    <phrase>
+      <word>4</word>
+      <word>6</word>
+      <word>4</word>
+    </phrase>
+    <phrase>
+      <word>4</word>
+      <word>8</word>
+      <word>4</word>
+    </phrase>
+    <phrase>
+      <word>4</word>
+      <word>ready</word>
+    </phrase>
+    <phrase>
+      <word>5</word>
+      <word>.</word>
+      <word>5</word>
+    </phrase>
+    <phrase>
+      <word>5</word>
+      <word>0</word>
+      <word>5</word>
+    </phrase>
+    <phrase>
+      <word>5</word>
+      <word>2</word>
+      <word>5</word>
+    </phrase>
+    <phrase>
+      <word>5</word>
+      <word>4</word>
+      <word>5</word>
+    </phrase>
+    <phrase>
+      <word>5</word>
+      <word>5</word>
+      <word>5</word>
+    </phrase>
+    <phrase>
+      <word>5</word>
+      <word>7</word>
+      <word>5</word>
+    </phrase>
+    <phrase>
+      <word>5</word>
+      <word>9</word>
+      <word>5</word>
+    </phrase>
+    <phrase>
+      <word>5</word>
+      <word>ready</word>
+    </phrase>
+    <phrase>
+      <word>6</word>
+      <word>.</word>
+      <word>6</word>
+    </phrase>
+    <phrase>
+      <word>6</word>
+      <word>1</word>
+      <word>6</word>
+    </phrase>
+    <phrase>
+      <word>6</word>
+      <word>3</word>
+      <word>6</word>
+    </phrase>
+    <phrase>
+      <word>6</word>
+      <word>5</word>
+      <word>6</word>
+    </phrase>
+    <phrase>
+      <word>6</word>
+      <word>6</word>
+      <word>6</word>
+    </phrase>
+    <phrase>
+      <word>6</word>
+      <word>8</word>
+      <word>6</word>
+    </phrase>
+    <phrase>
+      <word>6</word>
+      <word>ready</word>
+    </phrase>
+    <phrase>
+      <word>7</word>
+      <word>.</word>
+      <word>7</word>
+    </phrase>
+    <phrase>
+      <word>7</word>
+      <word>0</word>
+      <word>7</word>
+    </phrase>
+    <phrase>
+      <word>7</word>
+      <word>2</word>
+      <word>7</word>
+    </phrase>
+    <phrase>
+      <word>7</word>
+      <word>4</word>
+      <word>7</word>
+    </phrase>
+    <phrase>
+      <word>7</word>
+      <word>6</word>
+      <word>7</word>
+    </phrase>
+    <phrase>
+      <word>7</word>
+      <word>7</word>
+      <word>7</word>
+    </phrase>
+    <phrase>
+      <word>7</word>
+      <word>9</word>
+      <word>7</word>
+    </phrase>
+    <phrase>
+      <word>7</word>
+      <word>ready</word>
+    </phrase>
+    <phrase>
+      <word>8</word>
+      <word>.</word>
+      <word>8</word>
+    </phrase>
+    <phrase>
+      <word>8</word>
+      <word>1</word>
+      <word>8</word>
+    </phrase>
+    <phrase>
+      <word>8</word>
+      <word>3</word>
+      <word>8</word>
+    </phrase>
+    <phrase>
+      <word>8</word>
+      <word>5</word>
+      <word>8</word>
+    </phrase>
+    <phrase>
+      <word>8</word>
+      <word>7</word>
+      <word>8</word>
+    </phrase>
+    <phrase>
+      <word>8</word>
+      <word>8</word>
+      <word>8</word>
+    </phrase>
+    <phrase>
+      <word>8</word>
+      <word>ready</word>
+    </phrase>
+    <phrase>
+      <word>9</word>
+      <word>.</word>
+      <word>9</word>
+    </phrase>
+    <phrase>
+      <word>9</word>
+      <word>0</word>
+      <word>9</word>
+    </phrase>
+    <phrase>
+      <word>9</word>
+      <word>2</word>
+      <word>9</word>
+    </phrase>
+    <phrase>
+      <word>9</word>
+      <word>4</word>
+      <word>9</word>
+    </phrase>
+    <phrase>
+      <word>9</word>
+      <word>6</word>
+      <word>9</word>
+    </phrase>
+    <phrase>
+      <word>9</word>
+      <word>8</word>
+      <word>9</word>
+    </phrase>
+    <phrase>
+      <word>9</word>
+      <word>9</word>
+      <word>9</word>
+    </phrase>
+    <phrase>
+      <word>9</word>
+      <word>ready</word>
+    </phrase>
+  </embeddedTraining>
+  <vocabulary>
+    <vocab word="A" enabled="false" echo="false" />
+    <vocab word="B" enabled="false" echo="false" />
+    <vocab word="C" enabled="false" echo="false" />
+    <vocab word="D" enabled="false" echo="false" />
+    <vocab word="E" enabled="false" echo="false" />
+    <vocab word="F" enabled="false" echo="false" />
+    <vocab word="G" enabled="false" echo="false" />
+    <vocab word="H" enabled="false" echo="false" />
+    <vocab word="I" enabled="false" echo="false" />
+    <vocab word="J" enabled="false" echo="false" />
+    <vocab word="K" enabled="false" echo="false" />
+    <vocab word="L" enabled="false" echo="false" />
+    <vocab word="M" enabled="false" echo="false" />
+    <vocab word="N" enabled="false" echo="false" />
+    <vocab word="O" enabled="false" echo="false" />
+    <vocab word="P" enabled="false" echo="false" />
+    <vocab word="Q" enabled="false" echo="false" />
+    <vocab word="R" enabled="false" echo="false" />
+    <vocab word="S" enabled="false" echo="false" />
+    <vocab word="T" enabled="false" echo="false" />
+    <vocab word="U" enabled="false" echo="false" />
+    <vocab word="V" enabled="false" echo="false" />
+    <vocab word="W" enabled="false" echo="false" />
+    <vocab word="X" enabled="false" echo="false" />
+    <vocab word="Y" enabled="false" echo="false" />
+    <vocab word="Z" enabled="false" echo="false" />
+    <vocab word="left" enabled="false" echo="false" />
+    <vocab word="right" enabled="false" echo="false" />
+    <vocab word="consolidate" enabled="false" echo="false" />
+    <vocab word="unload container" enabled="false" echo="false" />
+    <vocab word="complete route" enabled="false" echo="false" />
+    <vocab word="no more" enabled="false" echo="false" />
+    <vocab word="yes" enabled="false" echo="false" />
+    <vocab word="no" enabled="false" echo="false" />
+    <vocab word="all" enabled="false" echo="false" />
+    <vocab word="cancel" enabled="false" echo="false" />
+    <vocab word="sign off" function="Globals.sign_off_confirm" enabled="true" echo="false" />
+    <vocab word="take a break" function="Globals.take_a_break" enabled="true" echo="false" />
+    <vocab word="change function" enabled="true" echo="false" />
+    <vocab word="review last" enabled="false" echo="false" />
+    <vocab word="undo entry" enabled="false" echo="false" />
+    <vocab word="continue" enabled="false" echo="false" />
+    <vocab word="all entries" enabled="false" echo="false" />
+    <vocab word="last entry" enabled="false" echo="false" />
+    <vocab word="which item" enabled="false" echo="false" />
+    <vocab word="override" enabled="false" echo="false" />
+    <vocab word="short product" enabled="false" echo="false" />
+    <vocab word="description" enabled="false" echo="false" />
+    <vocab word="stop" enabled="false" echo="false" />
+    <vocab word="." enabled="false" echo="false" />
+    <vocab word="UPC" enabled="false" echo="false" />
+    <vocab word="load number" enabled="false" echo="false" />
+    <vocab word="how much more" enabled="false" echo="false" />
+    <vocab word="change route" enabled="false" echo="false" />
+    <vocab word="reprint report" enabled="false" echo="false" />
+    <vocab word="change region" enabled="true" echo="false" />
+    <vocab word="store number" enabled="false" echo="false" />
+    <vocab word="route number" enabled="false" echo="false" />
+    <vocab word="item number" enabled="false" echo="false" />
+    <vocab word="location" enabled="false" echo="false" />
+    <vocab word="repeat last pick" enabled="false" echo="false" />
+    <vocab word="quantity" enabled="false" echo="false" />
+    <vocab word="skip aisle" enabled="false" echo="false" />
+    <vocab word="skip slot" enabled="false" echo="false" />
+    <vocab word="repick skips" enabled="false" echo="false" />
+    <vocab word="new container" enabled="false" echo="false" />
+    <vocab word="close container" enabled="false" echo="false" />
+    <vocab word="reprint labels" enabled="false" echo="false" />
+    <vocab word="partial" enabled="false" echo="false" />
+    <vocab word="change spur" enabled="false" echo="false" />
+    <vocab word="new pallet" enabled="false" echo="false" />
+    <vocab word="close stop" enabled="false" echo="false" />
+    <vocab word="goal time" enabled="false" echo="false" />
+    <vocab word="license" enabled="false" echo="false" />
+    <vocab word="release license" enabled="false" echo="false" />
+    <vocab word="spur" enabled="false" echo="false" />
+    <vocab word="route" enabled="false" echo="false" />
+    <vocab word="review cluster" enabled="false" echo="false" />
+    <vocab word="review contents" enabled="false" echo="false" />
+    <vocab word="pass assignment" enabled="false" echo="false" />
+    <vocab word="performance" enabled="false" echo="false" />
+    <vocab word="review containers" enabled="false" echo="false" />
+    <vocab word="skip carton" enabled="false" echo="false" />
+    <vocab word="all cartons" enabled="false" echo="false" />
+    <vocab word="license plate" enabled="false" echo="false" />
+    <vocab word="case code" enabled="false" echo="false" />
+    <vocab word="carton ID" enabled="true" echo="true" />
+    <vocab word="repeat last put" enabled="false" echo="false" />
+    <vocab word="VLINK_SCAN_VOCAB" enabled="false" echo="false" />
+  </vocabulary>
+  <phoneticSubstitutions>
+    <phonetic phrase=" " substitution="mellemrum" display="mellemrum" locale="da_DK" />
+    <phonetic phrase=" " substitution="space" display="space" locale="en_AU" />
+    <phonetic phrase=" " substitution="space" display="space" locale="en_GB" />
+    <phonetic phrase=" " substitution="space" display="space" locale="en_US" />
+    <phonetic phrase=" " substitution="espacio" display="espacio" locale="es_MX" />
+    <phonetic phrase=" " substitution="välilyönti" display="välilyönti" locale="fi_FI" />
+    <phonetic phrase=" " substitution="espace" display="espace" locale="fr_CA" />
+    <phonetic phrase=" " substitution="espace" display="espace" locale="fr_FR" />
+    <phonetic phrase=" " substitution="空白" display="空白" locale="ja_JP" />
+    <phonetic phrase=" " substitution="공간" display="공간" locale="ko_KR" />
+    <phonetic phrase=" " substitution="spatie" display="spatie" locale="nl_NL" />
+    <phonetic phrase=" " substitution="space" display="space" locale="pt_BR" />
+    <phonetic phrase=" " substitution="blanksteg" display="blanksteg" locale="sv_SE" />
+    <phonetic phrase=" " substitution="空格" display="空格" locale="zh_CN" />
+    <phonetic phrase="#" substitution="pund" display="pund" locale="da_DK" />
+    <phonetic phrase="#" substitution="pound" display="pound" locale="en_AU" />
+    <phonetic phrase="#" substitution="pound" display="pound" locale="en_GB" />
+    <phonetic phrase="#" substitution="pound" display="pound" locale="en_US" />
+    <phonetic phrase="#" substitution="numeral" display="numeral" locale="es_MX" />
+    <phonetic phrase="#" substitution="punta" display="punta" locale="fi_FI" />
+    <phonetic phrase="#" substitution="symbole de numéro" display="symbole de numero" locale="fr_CA" />
+    <phonetic phrase="#" substitution="symbole de numéro" display="symbole de numero" locale="fr_FR" />
+    <phonetic phrase="#" substitution="ポンド" display="ポンド" locale="ja_JP" />
+    <phonetic phrase="#" substitution="파운드" display="파운드" locale="ko_KR" />
+    <phonetic phrase="#" substitution="hekje" display="hekje" locale="nl_NL" />
+    <phonetic phrase="#" substitution="sustenido" display="sustenido" locale="pt_BR" />
+    <phonetic phrase="#" substitution="pund" display="pund" locale="sv_SE" />
+    <phonetic phrase="#" substitution="磅" display="磅" locale="zh_CN" />
+    <phonetic phrase="$" substitution="dollar" display="dollar" locale="da_DK" />
+    <phonetic phrase="$" substitution="dollar" display="dollar" locale="en_AU" />
+    <phonetic phrase="$" substitution="dollar" display="dollar" locale="en_GB" />
+    <phonetic phrase="$" substitution="dollar" display="dollar" locale="en_US" />
+    <phonetic phrase="$" substitution="dólar" display="dólar" locale="es_MX" />
+    <phonetic phrase="$" substitution="dollari" display="dollari" locale="fi_FI" />
+    <phonetic phrase="$" substitution="dollar" display="dollar" locale="fr_CA" />
+    <phonetic phrase="$" substitution="dollar" display="dollar" locale="fr_FR" />
+    <phonetic phrase="$" substitution="ドル" display="ドル" locale="ja_JP" />
+    <phonetic phrase="$" substitution="달러" display="달러" locale="ko_KR" />
+    <phonetic phrase="$" substitution="dollar" display="dollar" locale="nl_NL" />
+    <phonetic phrase="$" substitution="cifrão" display="cifrão" locale="pt_BR" />
+    <phonetic phrase="$" substitution="dollar" display="dollar" locale="sv_SE" />
+    <phonetic phrase="$" substitution="美元" display="美元" locale="zh_CN" />
+    <phonetic phrase="%" substitution="procent" display="procent" locale="da_DK" />
+    <phonetic phrase="%" substitution="percent" display="percent" locale="en_AU" />
+    <phonetic phrase="%" substitution="percent" display="percent" locale="en_GB" />
+    <phonetic phrase="%" substitution="percent" display="percent" locale="en_US" />
+    <phonetic phrase="%" substitution="porcentaje" display="porcentaje" locale="es_MX" />
+    <phonetic phrase="%" substitution="prosentti" display="prosentti" locale="fi_FI" />
+    <phonetic phrase="%" substitution="pourcentage" display="pourcentage" locale="fr_CA" />
+    <phonetic phrase="%" substitution="pourcentage" display="pourcentage" locale="fr_FR" />
+    <phonetic phrase="%" substitution="パーセント" display="パーセント" locale="ja_JP" />
+    <phonetic phrase="%" substitution="퍼센트" display="퍼센트" locale="ko_KR" />
+    <phonetic phrase="%" substitution="procent" display="procent" locale="nl_NL" />
+    <phonetic phrase="%" substitution="porcentagem" display="porcentagem" locale="pt_BR" />
+    <phonetic phrase="%" substitution="procent" display="procent" locale="sv_SE" />
+    <phonetic phrase="%" substitution="百分比" display="百分比" locale="zh_CN" />
+    <phonetic phrase="&amp;" substitution="og" display="og" locale="da_DK" />
+    <phonetic phrase="&amp;" substitution="ampersand" display="ampersand" locale="en_AU" />
+    <phonetic phrase="&amp;" substitution="ampersand" display="ampersand" locale="en_GB" />
+    <phonetic phrase="&amp;" substitution="ampersand" display="ampersand" locale="en_US" />
+    <phonetic phrase="&amp;" substitution="signo y" display="signo &amp;" locale="es_MX" />
+    <phonetic phrase="&amp;" substitution="et-merkki" display="et-merkki" locale="fi_FI" />
+    <phonetic phrase="&amp;" substitution="perluète" display="perluete" locale="fr_CA" />
+    <phonetic phrase="&amp;" substitution="perluète" display="perluete" locale="fr_FR" />
+    <phonetic phrase="&amp;" substitution="アンパサンド" display="アンパサンド" locale="ja_JP" />
+    <phonetic phrase="&amp;" substitution="앰퍼샌드" display="앰퍼샌드" locale="ko_KR" />
+    <phonetic phrase="&amp;" substitution="en" display="en" locale="nl_NL" />
+    <phonetic phrase="&amp;" substitution="&quot;e&quot; comercial" display="&quot;e&quot; comercial" locale="pt_BR" />
+    <phonetic phrase="&amp;" substitution="et-tecken" display="et-tecken" locale="sv_SE" />
+    <phonetic phrase="&amp;" substitution="&amp; 符号" display="&amp; 符号" locale="zh_CN" />
+    <phonetic phrase="*" substitution="stjerne" display="stjerne" locale="da_DK" />
+    <phonetic phrase="*" substitution="asterisk" display="asterisk" locale="en_AU" />
+    <phonetic phrase="*" substitution="asterisk" display="asterisk" locale="en_GB" />
+    <phonetic phrase="*" substitution="asterisk" display="asterisk" locale="en_US" />
+    <phonetic phrase="*" substitution="asterisco" display="asterisco" locale="es_MX" />
+    <phonetic phrase="*" substitution="tähti" display="tähti" locale="fi_FI" />
+    <phonetic phrase="*" substitution="astérisque" display="asterisque" locale="fr_CA" />
+    <phonetic phrase="*" substitution="astérisque" display="asterisque" locale="fr_FR" />
+    <phonetic phrase="*" substitution="アスタリスク" display="アスタリスク" locale="ja_JP" />
+    <phonetic phrase="*" substitution="별표" display="별표" locale="ko_KR" />
+    <phonetic phrase="*" substitution="sterretje" display="sterretje" locale="nl_NL" />
+    <phonetic phrase="*" substitution="asterisco" display="asterisco" locale="pt_BR" />
+    <phonetic phrase="*" substitution="asterisk" display="asterisk" locale="sv_SE" />
+    <phonetic phrase="*" substitution="星号" display="星号" locale="zh_CN" />
+    <phonetic phrase="+" substitution="plus" display="plus" locale="da_DK" />
+    <phonetic phrase="+" substitution="plus" display="plus" locale="en_AU" />
+    <phonetic phrase="+" substitution="plus" display="plus" locale="en_GB" />
+    <phonetic phrase="+" substitution="plus" display="plus" locale="en_US" />
+    <phonetic phrase="+" substitution="más" display="más" locale="es_MX" />
+    <phonetic phrase="+" substitution="plus" display="plus" locale="fi_FI" />
+    <phonetic phrase="+" substitution="plus" display="plus" locale="fr_CA" />
+    <phonetic phrase="+" substitution="plus" display="plus" locale="fr_FR" />
+    <phonetic phrase="+" substitution="プラス" display="プラス" locale="ja_JP" />
+    <phonetic phrase="+" substitution="더하기" display="더하기" locale="ko_KR" />
+    <phonetic phrase="+" substitution="plus" display="plus" locale="nl_NL" />
+    <phonetic phrase="+" substitution="mais" display="mais" locale="pt_BR" />
+    <phonetic phrase="+" substitution="plus" display="plus" locale="sv_SE" />
+    <phonetic phrase="+" substitution="加号" display="加号" locale="zh_CN" />
+    <phonetic phrase="-" substitution="minus" display="minus" locale="da_DK" />
+    <phonetic phrase="-" substitution="dash" display="dash" locale="en_AU" />
+    <phonetic phrase="-" substitution="dash" display="dash" locale="en_GB" />
+    <phonetic phrase="-" substitution="dash" display="dash" locale="en_US" />
+    <phonetic phrase="-" substitution="guión" display="guión" locale="es_MX" />
+    <phonetic phrase="-" substitution="ajatusviiva" display="ajatusviiva" locale="fi_FI" />
+    <phonetic phrase="-" substitution="tiret" display="tiret" locale="fr_CA" />
+    <phonetic phrase="-" substitution="tiret" display="tiret" locale="fr_FR" />
+    <phonetic phrase="-" substitution="ダッシュ" display="ダッシュ" locale="ja_JP" />
+    <phonetic phrase="-" substitution="대시" display="대시" locale="ko_KR" />
+    <phonetic phrase="-" substitution="min" display="min" locale="nl_NL" />
+    <phonetic phrase="-" substitution="hifen" display="hífen" locale="pt_BR" />
+    <phonetic phrase="-" substitution="bindestreck" display="bindestreck" locale="sv_SE" />
+    <phonetic phrase="-" substitution="短划线" display="短划线" locale="zh_CN" />
+    <phonetic phrase="." substitution="punktum" display="punktum" locale="da_DK" />
+    <phonetic phrase="." substitution="point" display="point" locale="en_AU" />
+    <phonetic phrase="." substitution="point" display="point" locale="en_GB" />
+    <phonetic phrase="." substitution="point" display="point" locale="en_US" />
+    <phonetic phrase="." substitution="punto" display="punto" locale="es_MX" />
+    <phonetic phrase="." substitution="piste" display="piste" locale="fi_FI" />
+    <phonetic phrase="." substitution="point" display="point" locale="fr_CA" />
+    <phonetic phrase="." substitution="point" display="point" locale="fr_FR" />
+    <phonetic phrase="." substitution="点" display="." locale="ja_JP" />
+    <phonetic phrase="." substitution="점" display="점" locale="ko_KR" />
+    <phonetic phrase="." substitution="punt" display="punt" locale="nl_NL" />
+    <phonetic phrase="." substitution="ponto" display="ponto" locale="pt_BR" />
+    <phonetic phrase="." substitution="punkt" display="punkt" locale="sv_SE" />
+    <phonetic phrase="." substitution="点" display="点" locale="zh_CN" />
+    <phonetic phrase="/" substitution="skråstreg" display="skråstreg" locale="da_DK" />
+    <phonetic phrase="/" substitution="slash" display="slash" locale="en_AU" />
+    <phonetic phrase="/" substitution="slash" display="slash" locale="en_GB" />
+    <phonetic phrase="/" substitution="slash" display="slash" locale="en_US" />
+    <phonetic phrase="/" substitution="barra" display="barra" locale="es_MX" />
+    <phonetic phrase="/" substitution="vinoviiva" display="vinoviiva" locale="fi_FI" />
+    <phonetic phrase="/" substitution="barre oblique" display="barre oblique" locale="fr_CA" />
+    <phonetic phrase="/" substitution="barre oblique" display="barre oblique" locale="fr_FR" />
+    <phonetic phrase="/" substitution="スラッシュ" display="スラッシュ" locale="ja_JP" />
+    <phonetic phrase="/" substitution="슬래시" display="슬래시" locale="ko_KR" />
+    <phonetic phrase="/" substitution="slash" display="slash" locale="nl_NL" />
+    <phonetic phrase="/" substitution="barra para a direta" display="barra para a direta" locale="pt_BR" />
+    <phonetic phrase="/" substitution="snedstreck" display="snedstreck" locale="sv_SE" />
+    <phonetic phrase="/" substitution="正斜杠" display="正斜杠" locale="zh_CN" />
+    <phonetic phrase="0" substitution="zéro" display="zero" locale="fr_CA" />
+    <phonetic phrase="1" substitution="un" display="un" locale="fr_CA" />
+    <phonetic phrase="2" substitution="deux" display="deux" locale="fr_CA" />
+    <phonetic phrase="3" substitution="trois" display="trois" locale="fr_CA" />
+    <phonetic phrase="4" substitution="quatre" display="quatre" locale="fr_CA" />
+    <phonetic phrase="5" substitution="cinq" display="cinq" locale="fr_CA" />
+    <phonetic phrase="6" substitution="six" display="six" locale="fr_CA" />
+    <phonetic phrase="7" substitution="sept" display="sept" locale="fr_CA" />
+    <phonetic phrase="8" substitution="huit" display="huit" locale="fr_CA" />
+    <phonetic phrase="9" substitution="neuf" display="neuf" locale="fr_CA" />
+    <phonetic phrase="=" substitution="er lig med" display="er lig med" locale="da_DK" />
+    <phonetic phrase="=" substitution="equals" display="equals" locale="en_AU" />
+    <phonetic phrase="=" substitution="equals" display="equals" locale="en_GB" />
+    <phonetic phrase="=" substitution="equals" display="equals" locale="en_US" />
+    <phonetic phrase="=" substitution="es igual a" display="igual" locale="es_MX" />
+    <phonetic phrase="=" substitution="on yhtä suuri kuin" display="on yhtä suuri kuin" locale="fi_FI" />
+    <phonetic phrase="=" substitution="égal" display="egal" locale="fr_CA" />
+    <phonetic phrase="=" substitution="égal" display="egal" locale="fr_FR" />
+    <phonetic phrase="=" substitution="等号" display="等号" locale="ja_JP" />
+    <phonetic phrase="=" substitution="같음" display="같음" locale="ko_KR" />
+    <phonetic phrase="=" substitution="is" display="is" locale="nl_NL" />
+    <phonetic phrase="=" substitution="igual" display="igual" locale="pt_BR" />
+    <phonetic phrase="=" substitution="likhetstecken" display="likhetstecken" locale="sv_SE" />
+    <phonetic phrase="=" substitution="等于" display="等于" locale="zh_CN" />
+    <phonetic phrase="A" substitution="alpha" display="alpha" locale="da_DK" />
+    <phonetic phrase="A" substitution="alpha" display="alpha" locale="en_AU" />
+    <phonetic phrase="A" substitution="alpha" display="alpha" locale="en_GB" />
+    <phonetic phrase="A" substitution="alpha" display="alpha" locale="en_US" />
+    <phonetic phrase="A" substitution="alfa" display="alfa" locale="es_MX" />
+    <phonetic phrase="A" substitution="Aarne" display="Aarne" locale="fi_FI" />
+    <phonetic phrase="A" substitution="Anatole" display="Anatole" locale="fr_CA" />
+    <phonetic phrase="A" substitution="Anatole" display="Anatole" locale="fr_FR" />
+    <phonetic phrase="A" substitution="アルファ" display="アルファ" locale="ja_JP" />
+    <phonetic phrase="A" substitution="알파" display="알파" locale="ko_KR" />
+    <phonetic phrase="A" substitution="alpha" display="alpha" locale="nl_NL" />
+    <phonetic phrase="A" substitution="alface" display="alface" locale="pt_BR" />
+    <phonetic phrase="A" substitution="Adam" display="Adam" locale="sv_SE" />
+    <phonetic phrase="A" substitution="A" display="A" locale="zh_CN" />
+    <phonetic phrase="B" substitution="bravo" display="bravo" locale="da_DK" />
+    <phonetic phrase="B" substitution="bravo" display="bravo" locale="en_AU" />
+    <phonetic phrase="B" substitution="bravo" display="bravo" locale="en_GB" />
+    <phonetic phrase="B" substitution="bravo" display="bravo" locale="en_US" />
+    <phonetic phrase="B" substitution="bravo" display="bravo" locale="es_MX" />
+    <phonetic phrase="B" substitution="Bertta" display="Bertta" locale="fi_FI" />
+    <phonetic phrase="B" substitution="Berthe" display="Berthe" locale="fr_CA" />
+    <phonetic phrase="B" substitution="Berthe" display="Berthe" locale="fr_FR" />
+    <phonetic phrase="B" substitution="ブラボ" display="ブラボ" locale="ja_JP" />
+    <phonetic phrase="B" substitution="브라보" display="브라보" locale="ko_KR" />
+    <phonetic phrase="B" substitution="bravo" display="bravo" locale="nl_NL" />
+    <phonetic phrase="B" substitution="bola" display="bola" locale="pt_BR" />
+    <phonetic phrase="B" substitution="Bertil" display="Bertil" locale="sv_SE" />
+    <phonetic phrase="B" substitution="B" display="B" locale="zh_CN" />
+    <phonetic phrase="C" substitution="charlie" display="charlie" locale="da_DK" />
+    <phonetic phrase="C" substitution="charlie" display="charlie" locale="en_AU" />
+    <phonetic phrase="C" substitution="charlie" display="charlie" locale="en_GB" />
+    <phonetic phrase="C" substitution="charlie" display="charlie" locale="en_US" />
+    <phonetic phrase="C" substitution="charli" display="charlie" locale="es_MX" />
+    <phonetic phrase="C" substitution="Celsius" display="Celsius" locale="fi_FI" />
+    <phonetic phrase="C" substitution="Célestin" display="Celestin" locale="fr_CA" />
+    <phonetic phrase="C" substitution="Célestin" display="Celestin" locale="fr_FR" />
+    <phonetic phrase="C" substitution="チャーリー" display="チャーリー" locale="ja_JP" />
+    <phonetic phrase="C" substitution="찰리" display="찰리" locale="ko_KR" />
+    <phonetic phrase="C" substitution="charlie" display="charlie" locale="nl_NL" />
+    <phonetic phrase="C" substitution="casa" display="casa" locale="pt_BR" />
+    <phonetic phrase="C" substitution="Cesar" display="Cesar" locale="sv_SE" />
+    <phonetic phrase="C" substitution="C" display="C" locale="zh_CN" />
+    <phonetic phrase="D" substitution="delta" display="delta" locale="da_DK" />
+    <phonetic phrase="D" substitution="delta" display="delta" locale="en_AU" />
+    <phonetic phrase="D" substitution="delta" display="delta" locale="en_GB" />
+    <phonetic phrase="D" substitution="delta" display="delta" locale="en_US" />
+    <phonetic phrase="D" substitution="delta" display="delta" locale="es_MX" />
+    <phonetic phrase="D" substitution="Daavid" display="Daavid" locale="fi_FI" />
+    <phonetic phrase="D" substitution="Désiré" display="Desire" locale="fr_CA" />
+    <phonetic phrase="D" substitution="Désiré" display="Desire" locale="fr_FR" />
+    <phonetic phrase="D" substitution="デルタ" display="デルタ" locale="ja_JP" />
+    <phonetic phrase="D" substitution="델타" display="델타" locale="ko_KR" />
+    <phonetic phrase="D" substitution="delta" display="delta" locale="nl_NL" />
+    <phonetic phrase="D" substitution="dado" display="dado" locale="pt_BR" />
+    <phonetic phrase="D" substitution="David" display="David" locale="sv_SE" />
+    <phonetic phrase="D" substitution="D" display="D" locale="zh_CN" />
+    <phonetic phrase="E" substitution="echo" display="echo" locale="da_DK" />
+    <phonetic phrase="E" substitution="echo" display="echo" locale="en_AU" />
+    <phonetic phrase="E" substitution="echo" display="echo" locale="en_GB" />
+    <phonetic phrase="E" substitution="echo" display="echo" locale="en_US" />
+    <phonetic phrase="E" substitution="eco" display="echo" locale="es_MX" />
+    <phonetic phrase="E" substitution="Eemeli" display="Eemeli" locale="fi_FI" />
+    <phonetic phrase="E" substitution="Eugène" display="Eugene" locale="fr_CA" />
+    <phonetic phrase="E" substitution="Eugène" display="Eugene" locale="fr_FR" />
+    <phonetic phrase="E" substitution="エコー" display="エコー" locale="ja_JP" />
+    <phonetic phrase="E" substitution="에코" display="에코" locale="ko_KR" />
+    <phonetic phrase="E" substitution="echo" display="echo" locale="nl_NL" />
+    <phonetic phrase="E" substitution="eco" display="eco" locale="pt_BR" />
+    <phonetic phrase="E" substitution="Erik" display="Erik" locale="sv_SE" />
+    <phonetic phrase="E" substitution="回声" display="回声" locale="zh_CN" />
+    <phonetic phrase="F" substitution="foxtraught" display="foxtrot" locale="da_DK" />
+    <phonetic phrase="F" substitution="foxtraught" display="foxtrot" locale="en_AU" />
+    <phonetic phrase="F" substitution="foxtraught" display="foxtrot" locale="en_GB" />
+    <phonetic phrase="F" substitution="foxtrot" display="foxtrot" locale="en_US" />
+    <phonetic phrase="F" substitution="foxtrot" display="foxtrot" locale="es_MX" />
+    <phonetic phrase="F" substitution="Faarao" display="Faarao" locale="fi_FI" />
+    <phonetic phrase="F" substitution="François" display="Francois" locale="fr_CA" />
+    <phonetic phrase="F" substitution="François" display="Francois" locale="fr_FR" />
+    <phonetic phrase="F" substitution="フォックス" display="フォックス" locale="ja_JP" />
+    <phonetic phrase="F" substitution="폭스트럿" display="폭스트럿" locale="ko_KR" />
+    <phonetic phrase="F" substitution="foxtraught" display="foxtrot" locale="nl_NL" />
+    <phonetic phrase="F" substitution="futebol" display="futebol" locale="pt_BR" />
+    <phonetic phrase="F" substitution="Filip" display="Filip" locale="sv_SE" />
+    <phonetic phrase="F" substitution="狐步舞" display="狐步舞" locale="zh_CN" />
+    <phonetic phrase="G" substitution="golf" display="golf" locale="da_DK" />
+    <phonetic phrase="G" substitution="golf" display="golf" locale="en_AU" />
+    <phonetic phrase="G" substitution="golf" display="golf" locale="en_GB" />
+    <phonetic phrase="G" substitution="golf" display="golf" locale="en_US" />
+    <phonetic phrase="G" substitution="golf" display="golf" locale="es_MX" />
+    <phonetic phrase="G" substitution="Gideon" display="Gideon" locale="fi_FI" />
+    <phonetic phrase="G" substitution="Gaston" display="Gaston" locale="fr_CA" />
+    <phonetic phrase="G" substitution="Gaston" display="Gaston" locale="fr_FR" />
+    <phonetic phrase="G" substitution="ゴルフ" display="ゴルフ" locale="ja_JP" />
+    <phonetic phrase="G" substitution="골프" display="골프" locale="ko_KR" />
+    <phonetic phrase="G" substitution="golf" display="golf" locale="nl_NL" />
+    <phonetic phrase="G" substitution="gol" display="gol" locale="pt_BR" />
+    <phonetic phrase="G" substitution="Gustav" display="Gustav" locale="sv_SE" />
+    <phonetic phrase="G" substitution="高尔夫球" display="高尔夫球" locale="zh_CN" />
+    <phonetic phrase="H" substitution="hotel" display="hotel" locale="da_DK" />
+    <phonetic phrase="H" substitution="hotel" display="hotel" locale="en_AU" />
+    <phonetic phrase="H" substitution="hotel" display="hotel" locale="en_GB" />
+    <phonetic phrase="H" substitution="hotel" display="hotel" locale="en_US" />
+    <phonetic phrase="H" substitution="hotel" display="hotel" locale="es_MX" />
+    <phonetic phrase="H" substitution="Heikki" display="Heikki" locale="fi_FI" />
+    <phonetic phrase="H" substitution="Henri" display="Henri" locale="fr_CA" />
+    <phonetic phrase="H" substitution="Henri" display="Henri" locale="fr_FR" />
+    <phonetic phrase="H" substitution="ホテル" display="ホテル" locale="ja_JP" />
+    <phonetic phrase="H" substitution="호텔" display="호텔" locale="ko_KR" />
+    <phonetic phrase="H" substitution="hotel" display="hotel" locale="nl_NL" />
+    <phonetic phrase="H" substitution="hotel" display="hotel" locale="pt_BR" />
+    <phonetic phrase="H" substitution="Helge" display="Helge" locale="sv_SE" />
+    <phonetic phrase="H" substitution="酒店" display="酒店" locale="zh_CN" />
+    <phonetic phrase="I" substitution="india" display="india" locale="da_DK" />
+    <phonetic phrase="I" substitution="india" display="india" locale="en_AU" />
+    <phonetic phrase="I" substitution="india" display="india" locale="en_GB" />
+    <phonetic phrase="I" substitution="india" display="india" locale="en_US" />
+    <phonetic phrase="I" substitution="india" display="india" locale="es_MX" />
+    <phonetic phrase="I" substitution="Iivari" display="Iivari" locale="fi_FI" />
+    <phonetic phrase="I" substitution="Irma" display="Irma" locale="fr_CA" />
+    <phonetic phrase="I" substitution="Irma" display="Irma" locale="fr_FR" />
+    <phonetic phrase="I" substitution="インド" display="インド" locale="ja_JP" />
+    <phonetic phrase="I" substitution="인디아" display="인디아" locale="ko_KR" />
+    <phonetic phrase="I" substitution="india" display="india" locale="nl_NL" />
+    <phonetic phrase="I" substitution="índio" display="índio" locale="pt_BR" />
+    <phonetic phrase="I" substitution="Ivar" display="Ivar" locale="sv_SE" />
+    <phonetic phrase="I" substitution="印度" display="印度" locale="zh_CN" />
+    <phonetic phrase="J" substitution="juliet" display="juliet" locale="da_DK" />
+    <phonetic phrase="J" substitution="juliet" display="juliet" locale="en_AU" />
+    <phonetic phrase="J" substitution="juliet" display="juliet" locale="en_GB" />
+    <phonetic phrase="J" substitution="juliet" display="juliet" locale="en_US" />
+    <phonetic phrase="J" substitution="juliet" display="juliet" locale="es_MX" />
+    <phonetic phrase="J" substitution="Jussi" display="Jussi" locale="fi_FI" />
+    <phonetic phrase="J" substitution="Joseph" display="Joseph" locale="fr_CA" />
+    <phonetic phrase="J" substitution="Joseph" display="Joseph" locale="fr_FR" />
+    <phonetic phrase="J" substitution="ジュリエット" display="ジュリエット" locale="ja_JP" />
+    <phonetic phrase="J" substitution="줄리엣" display="줄리엣" locale="ko_KR" />
+    <phonetic phrase="J" substitution="juliet" display="juliet" locale="nl_NL" />
+    <phonetic phrase="J" substitution="jogo" display="jogo" locale="pt_BR" />
+    <phonetic phrase="J" substitution="Johan" display="Johan" locale="sv_SE" />
+    <phonetic phrase="J" substitution="J" display="J" locale="zh_CN" />
+    <phonetic phrase="K" substitution="keelo" display="kilo" locale="da_DK" />
+    <phonetic phrase="K" substitution="keelo" display="kilo" locale="en_AU" />
+    <phonetic phrase="K" substitution="keelo" display="kilo" locale="en_GB" />
+    <phonetic phrase="K" substitution="keelo" display="kilo" locale="en_US" />
+    <phonetic phrase="K" substitution="kilo" display="kilo" locale="es_MX" />
+    <phonetic phrase="K" substitution="Kalle" display="Kalle" locale="fi_FI" />
+    <phonetic phrase="K" substitution="Kléber" display="Kleber" locale="fr_CA" />
+    <phonetic phrase="K" substitution="Kléber" display="Kleber" locale="fr_FR" />
+    <phonetic phrase="K" substitution="キロ" display="キロ" locale="ja_JP" />
+    <phonetic phrase="K" substitution="킬로" display="킬로" locale="ko_KR" />
+    <phonetic phrase="K" substitution="keelo" display="kilo" locale="nl_NL" />
+    <phonetic phrase="K" substitution="kibom" display="kibom" locale="pt_BR" />
+    <phonetic phrase="K" substitution="Kalle" display="Kalle" locale="sv_SE" />
+    <phonetic phrase="K" substitution="K" display="K" locale="zh_CN" />
+    <phonetic phrase="L" substitution="lima" display="lima" locale="da_DK" />
+    <phonetic phrase="L" substitution="lima" display="lima" locale="en_AU" />
+    <phonetic phrase="L" substitution="lima" display="lima" locale="en_GB" />
+    <phonetic phrase="L" substitution="lima" display="lima" locale="en_US" />
+    <phonetic phrase="L" substitution="lima" display="lima" locale="es_MX" />
+    <phonetic phrase="L" substitution="Lauri" display="Lauri" locale="fi_FI" />
+    <phonetic phrase="L" substitution="Louis" display="Louis" locale="fr_CA" />
+    <phonetic phrase="L" substitution="Louis" display="Louis" locale="fr_FR" />
+    <phonetic phrase="L" substitution="リマ" display="リマ" locale="ja_JP" />
+    <phonetic phrase="L" substitution="리마" display="리마" locale="ko_KR" />
+    <phonetic phrase="L" substitution="lima" display="lima" locale="nl_NL" />
+    <phonetic phrase="L" substitution="limão" display="limão" locale="pt_BR" />
+    <phonetic phrase="L" substitution="Ludvig" display="Ludvig" locale="sv_SE" />
+    <phonetic phrase="L" substitution="利马" display="利马" locale="zh_CN" />
+    <phonetic phrase="M" substitution="mike" display="mike" locale="da_DK" />
+    <phonetic phrase="M" substitution="mike" display="mike" locale="en_AU" />
+    <phonetic phrase="M" substitution="mike" display="mike" locale="en_GB" />
+    <phonetic phrase="M" substitution="mike" display="mike" locale="en_US" />
+    <phonetic phrase="M" substitution="maik" display="mike" locale="es_MX" />
+    <phonetic phrase="M" substitution="Matti" display="Matti" locale="fi_FI" />
+    <phonetic phrase="M" substitution="Marcel" display="Marcel" locale="fr_CA" />
+    <phonetic phrase="M" substitution="Marcel" display="Marcel" locale="fr_FR" />
+    <phonetic phrase="M" substitution="マイク" display="マイク" locale="ja_JP" />
+    <phonetic phrase="M" substitution="마이크" display="마이크" locale="ko_KR" />
+    <phonetic phrase="M" substitution="mike" display="mike" locale="nl_NL" />
+    <phonetic phrase="M" substitution="maria" display="maria" locale="pt_BR" />
+    <phonetic phrase="M" substitution="Martin" display="Martin" locale="sv_SE" />
+    <phonetic phrase="M" substitution="M" display="M" locale="zh_CN" />
+    <phonetic phrase="N" substitution="november" display="november" locale="da_DK" />
+    <phonetic phrase="N" substitution="november" display="november" locale="en_AU" />
+    <phonetic phrase="N" substitution="novembur" display="november" locale="en_GB" />
+    <phonetic phrase="N" substitution="novembur" display="november" locale="en_US" />
+    <phonetic phrase="N" substitution="noviembre" display="noviembre" locale="es_MX" />
+    <phonetic phrase="N" substitution="Niilo" display="Niilo" locale="fi_FI" />
+    <phonetic phrase="N" substitution="Nicolas" display="Nicolas" locale="fr_CA" />
+    <phonetic phrase="N" substitution="Nicolas" display="Nicolas" locale="fr_FR" />
+    <phonetic phrase="N" substitution="ノベンバ" display="ノベンバ" locale="ja_JP" />
+    <phonetic phrase="N" substitution="노벰버" display="노벰버" locale="ko_KR" />
+    <phonetic phrase="N" substitution="november" display="november" locale="nl_NL" />
+    <phonetic phrase="N" substitution="nada" display="nada" locale="pt_BR" />
+    <phonetic phrase="N" substitution="Niklas" display="Niklas" locale="sv_SE" />
+    <phonetic phrase="N" substitution="十一月" display="十一月" locale="zh_CN" />
+    <phonetic phrase="O" substitution="oscar" display="oscar" locale="da_DK" />
+    <phonetic phrase="O" substitution="oscar" display="oscar" locale="en_AU" />
+    <phonetic phrase="O" substitution="oscar" display="oscar" locale="en_GB" />
+    <phonetic phrase="O" substitution="oscar" display="oscar" locale="en_US" />
+    <phonetic phrase="O" substitution="oscar" display="oscar" locale="es_MX" />
+    <phonetic phrase="O" substitution="Otto" display="Otto" locale="fi_FI" />
+    <phonetic phrase="O" substitution="Oscar" display="Oscar" locale="fr_CA" />
+    <phonetic phrase="O" substitution="Oscar" display="Oscar" locale="fr_FR" />
+    <phonetic phrase="O" substitution="オスカー" display="オスカー" locale="ja_JP" />
+    <phonetic phrase="O" substitution="오스카" display="오스카" locale="ko_KR" />
+    <phonetic phrase="O" substitution="oscar" display="oscar" locale="nl_NL" />
+    <phonetic phrase="O" substitution="oscar" display="oscar" locale="pt_BR" />
+    <phonetic phrase="O" substitution="Olof" display="Olof" locale="sv_SE" />
+    <phonetic phrase="O" substitution="奥斯卡" display="奥斯卡" locale="zh_CN" />
+    <phonetic phrase="P" substitution="papa" display="papa" locale="da_DK" />
+    <phonetic phrase="P" substitution="papa" display="papa" locale="en_AU" />
+    <phonetic phrase="P" substitution="papa" display="papa" locale="en_GB" />
+    <phonetic phrase="P" substitution="papa" display="papa" locale="en_US" />
+    <phonetic phrase="P" substitution="papa" display="papa" locale="es_MX" />
+    <phonetic phrase="P" substitution="Paavo" display="Paavo" locale="fi_FI" />
+    <phonetic phrase="P" substitution="Pierre" display="Pierre" locale="fr_CA" />
+    <phonetic phrase="P" substitution="Pierre" display="Pierre" locale="fr_FR" />
+    <phonetic phrase="P" substitution="パパ" display="パパ" locale="ja_JP" />
+    <phonetic phrase="P" substitution="파파" display="파파" locale="ko_KR" />
+    <phonetic phrase="P" substitution="papa" display="papa" locale="nl_NL" />
+    <phonetic phrase="P" substitution="paulo" display="paulo" locale="pt_BR" />
+    <phonetic phrase="P" substitution="Petter" display="Petter" locale="sv_SE" />
+    <phonetic phrase="P" substitution="爸爸" display="爸爸" locale="zh_CN" />
+    <phonetic phrase="Q" substitution="quebec" display="quebec" locale="da_DK" />
+    <phonetic phrase="Q" substitution="quebec" display="quebec" locale="en_AU" />
+    <phonetic phrase="Q" substitution="quebec" display="quebec" locale="en_GB" />
+    <phonetic phrase="Q" substitution="quebec" display="quebec" locale="en_US" />
+    <phonetic phrase="Q" substitution="quebec" display="quebec" locale="es_MX" />
+    <phonetic phrase="Q" substitution="Kuu" display="Kuu" locale="fi_FI" />
+    <phonetic phrase="Q" substitution="Quintal" display="Quintal" locale="fr_CA" />
+    <phonetic phrase="Q" substitution="Quintal" display="Quintal" locale="fr_FR" />
+    <phonetic phrase="Q" substitution="ケベック" display="ケベック" locale="ja_JP" />
+    <phonetic phrase="Q" substitution="퀴벡" display="퀴벡" locale="ko_KR" />
+    <phonetic phrase="Q" substitution="quebec" display="quebec" locale="nl_NL" />
+    <phonetic phrase="Q" substitution="quatro" display="quatro" locale="pt_BR" />
+    <phonetic phrase="Q" substitution="Quintos" display="Quintos" locale="sv_SE" />
+    <phonetic phrase="Q" substitution="魁北克" display="魁北克" locale="zh_CN" />
+    <phonetic phrase="R" substitution="romeo" display="romeo" locale="da_DK" />
+    <phonetic phrase="R" substitution="romeo" display="romeo" locale="en_AU" />
+    <phonetic phrase="R" substitution="romeo" display="romeo" locale="en_GB" />
+    <phonetic phrase="R" substitution="romeo" display="romeo" locale="en_US" />
+    <phonetic phrase="R" substitution="romeo" display="romeo" locale="es_MX" />
+    <phonetic phrase="R" substitution="Risto" display="Risto" locale="fi_FI" />
+    <phonetic phrase="R" substitution="Raoul" display="Raoul" locale="fr_CA" />
+    <phonetic phrase="R" substitution="Raoul" display="Raoul" locale="fr_FR" />
+    <phonetic phrase="R" substitution="ロメオ" display="ロメオ" locale="ja_JP" />
+    <phonetic phrase="R" substitution="로미오" display="로미오" locale="ko_KR" />
+    <phonetic phrase="R" substitution="romeo" display="romeo" locale="nl_NL" />
+    <phonetic phrase="R" substitution="rato" display="rato" locale="pt_BR" />
+    <phonetic phrase="R" substitution="Rudolf" display="Rudolf" locale="sv_SE" />
+    <phonetic phrase="R" substitution="便鞋" display="便鞋" locale="zh_CN" />
+    <phonetic phrase="S" substitution="sierra" display="sierra" locale="da_DK" />
+    <phonetic phrase="S" substitution="sierra" display="sierra" locale="en_AU" />
+    <phonetic phrase="S" substitution="sierra" display="sierra" locale="en_GB" />
+    <phonetic phrase="S" substitution="sierra" display="sierra" locale="en_US" />
+    <phonetic phrase="S" substitution="sierra" display="sierra" locale="es_MX" />
+    <phonetic phrase="S" substitution="Sakari" display="Sakari" locale="fi_FI" />
+    <phonetic phrase="S" substitution="Suzanne" display="Suzanne" locale="fr_CA" />
+    <phonetic phrase="S" substitution="Suzanne" display="Suzanne" locale="fr_FR" />
+    <phonetic phrase="S" substitution="シエラ" display="シエラ" locale="ja_JP" />
+    <phonetic phrase="S" substitution="시에라" display="시에라" locale="ko_KR" />
+    <phonetic phrase="S" substitution="sierra" display="sierra" locale="nl_NL" />
+    <phonetic phrase="S" substitution="sapo" display="sapo" locale="pt_BR" />
+    <phonetic phrase="S" substitution="Sigurd" display="Sigurd" locale="sv_SE" />
+    <phonetic phrase="S" substitution="S" display="S" locale="zh_CN" />
+    <phonetic phrase="T" substitution="tango" display="tango" locale="da_DK" />
+    <phonetic phrase="T" substitution="tango" display="tango" locale="en_AU" />
+    <phonetic phrase="T" substitution="tango" display="tango" locale="en_GB" />
+    <phonetic phrase="T" substitution="tango" display="tango" locale="en_US" />
+    <phonetic phrase="T" substitution="tango" display="tango" locale="es_MX" />
+    <phonetic phrase="T" substitution="Tyyne" display="Tyyne" locale="fi_FI" />
+    <phonetic phrase="T" substitution="Thérèse" display="Therese" locale="fr_CA" />
+    <phonetic phrase="T" substitution="Thérèse" display="Therese" locale="fr_FR" />
+    <phonetic phrase="T" substitution="タンゴ" display="タンゴ" locale="ja_JP" />
+    <phonetic phrase="T" substitution="탱고" display="탱고" locale="ko_KR" />
+    <phonetic phrase="T" substitution="tango" display="tango" locale="nl_NL" />
+    <phonetic phrase="T" substitution="tatu" display="tatu" locale="pt_BR" />
+    <phonetic phrase="T" substitution="Tore" display="Tore" locale="sv_SE" />
+    <phonetic phrase="T" substitution="探戈" display="探戈" locale="zh_CN" />
+    <phonetic phrase="U" substitution="uniform" display="uniform" locale="da_DK" />
+    <phonetic phrase="U" substitution="uniform" display="uniform" locale="en_AU" />
+    <phonetic phrase="U" substitution="uniform" display="uniform" locale="en_GB" />
+    <phonetic phrase="U" substitution="uniform" display="uniform" locale="en_US" />
+    <phonetic phrase="U" substitution="uniforme" display="uniforme" locale="es_MX" />
+    <phonetic phrase="U" substitution="Urho" display="Urho" locale="fi_FI" />
+    <phonetic phrase="U" substitution="Ursule" display="Ursule" locale="fr_CA" />
+    <phonetic phrase="U" substitution="Ursule" display="Ursule" locale="fr_FR" />
+    <phonetic phrase="U" substitution="ユニフォーム" display="ユニフォーム" locale="ja_JP" />
+    <phonetic phrase="U" substitution="유니폼" display="유니폼" locale="ko_KR" />
+    <phonetic phrase="U" substitution="uniform" display="uniform" locale="nl_NL" />
+    <phonetic phrase="U" substitution="uniforme" display="uniforme" locale="pt_BR" />
+    <phonetic phrase="U" substitution="Urban" display="Urban" locale="sv_SE" />
+    <phonetic phrase="U" substitution="统一" display="统一" locale="zh_CN" />
+    <phonetic phrase="UPC" substitution="upece" display="UPC" locale="es_MX" />
+    <phonetic phrase="UPC" substitution="CUP" display="CUP" locale="fr_CA" />
+    <phonetic phrase="UPC" substitution="CUP" display="CUP" locale="fr_FR" />
+    <phonetic phrase="V" substitution="victor" display="victor" locale="da_DK" />
+    <phonetic phrase="V" substitution="victor" display="victor" locale="en_AU" />
+    <phonetic phrase="V" substitution="victor" display="victor" locale="en_GB" />
+    <phonetic phrase="V" substitution="victor" display="victor" locale="en_US" />
+    <phonetic phrase="V" substitution="victor" display="victor" locale="es_MX" />
+    <phonetic phrase="V" substitution="Vihtori" display="Vihtori" locale="fi_FI" />
+    <phonetic phrase="V" substitution="Victor" display="Victor" locale="fr_CA" />
+    <phonetic phrase="V" substitution="Victor" display="Victor" locale="fr_FR" />
+    <phonetic phrase="V" substitution="ヴィクター" display="ヴィクター" locale="ja_JP" />
+    <phonetic phrase="V" substitution="빅터" display="빅터" locale="ko_KR" />
+    <phonetic phrase="V" substitution="victor" display="victor" locale="nl_NL" />
+    <phonetic phrase="V" substitution="vitória" display="vitória" locale="pt_BR" />
+    <phonetic phrase="V" substitution="Viktor" display="Viktor" locale="sv_SE" />
+    <phonetic phrase="V" substitution="V" display="V" locale="zh_CN" />
+    <phonetic phrase="VLINK_SCAN_VOCAB" substitution="scan" display="scan" locale="en_US" />
+    <phonetic phrase="Vocollect" substitution="voca lect" display="Vocollect" locale="da_DK" />
+    <phonetic phrase="Vocollect" substitution="voca lect" display="Vocollect" locale="en_AU" />
+    <phonetic phrase="Vocollect" substitution="voca lect" display="Vocollect" locale="en_GB" />
+    <phonetic phrase="Vocollect" substitution="voca lect" display="Vocollect" locale="en_US" />
+    <phonetic phrase="Vocollect" substitution="Vocolect" display="Vocollect" locale="es_MX" />
+    <phonetic phrase="Vocollect" substitution="voca lect" display="voca lect" locale="fi_FI" />
+    <phonetic phrase="Vocollect" substitution="voca lect" display="Vocollect" locale="fr_CA" />
+    <phonetic phrase="Vocollect" substitution="voca lect" display="Vocollect" locale="fr_FR" />
+    <phonetic phrase="Vocollect" substitution="ヴォコレクト" display="ヴォコレクト" locale="ja_JP" />
+    <phonetic phrase="Vocollect" substitution="voca lect" display="보컬렉트" locale="ko_KR" />
+    <phonetic phrase="Vocollect" substitution="voca lect" display="Vocollect" locale="nl_NL" />
+    <phonetic phrase="Vocollect" substitution="voca lect" display="Vocollect" locale="pt_BR" />
+    <phonetic phrase="Vocollect" substitution="voca lect" display="voca lect" locale="sv_SE" />
+    <phonetic phrase="Vocollect" substitution="voca lect" display="Vocollect" locale="zh_CN" />
+    <phonetic phrase="W" substitution="whiskey" display="whiskey" locale="da_DK" />
+    <phonetic phrase="W" substitution="whiskey" display="whiskey" locale="en_AU" />
+    <phonetic phrase="W" substitution="whiskey" display="whiskey" locale="en_GB" />
+    <phonetic phrase="W" substitution="whiskey" display="whiskey" locale="en_US" />
+    <phonetic phrase="W" substitution="wiski" display="whisky" locale="es_MX" />
+    <phonetic phrase="W" substitution="Wiski" display="Wiski" locale="fi_FI" />
+    <phonetic phrase="W" substitution="William" display="William" locale="fr_CA" />
+    <phonetic phrase="W" substitution="William" display="William" locale="fr_FR" />
+    <phonetic phrase="W" substitution="ウィスキー" display="ウィスキー" locale="ja_JP" />
+    <phonetic phrase="W" substitution="위스키" display="위스키" locale="ko_KR" />
+    <phonetic phrase="W" substitution="whiskey" display="whiskey" locale="nl_NL" />
+    <phonetic phrase="W" substitution="wisky" display="wisky" locale="pt_BR" />
+    <phonetic phrase="W" substitution="Wilhelm" display="Wilhelm" locale="sv_SE" />
+    <phonetic phrase="W" substitution="威士忌酒" display="威士忌酒" locale="zh_CN" />
+    <phonetic phrase="X" substitution="ekssray" display="x-ray" locale="da_DK" />
+    <phonetic phrase="X" substitution="ekssray" display="x-ray" locale="en_AU" />
+    <phonetic phrase="X" substitution="ekssray" display="x-ray" locale="en_GB" />
+    <phonetic phrase="X" substitution="ekssray" display="x-ray" locale="en_US" />
+    <phonetic phrase="X" substitution="rayo equis" display="rayo x" locale="es_MX" />
+    <phonetic phrase="X" substitution="Äksä" display="Äksä" locale="fi_FI" />
+    <phonetic phrase="X" substitution="Xavier" display="Xavier" locale="fr_CA" />
+    <phonetic phrase="X" substitution="Xavier" display="Xavier" locale="fr_FR" />
+    <phonetic phrase="X" substitution="エクスレイ" display="エクスレイ" locale="ja_JP" />
+    <phonetic phrase="X" substitution="엑스레이" display="엑스레이" locale="ko_KR" />
+    <phonetic phrase="X" substitution="ekssray" display="x-ray" locale="nl_NL" />
+    <phonetic phrase="X" substitution="xadrez" display="xadrez" locale="pt_BR" />
+    <phonetic phrase="X" substitution="Xerxes" display="Xerxes" locale="sv_SE" />
+    <phonetic phrase="X" substitution="X 射线" display="X 射线" locale="zh_CN" />
+    <phonetic phrase="Y" substitution="yankee" display="yankee" locale="da_DK" />
+    <phonetic phrase="Y" substitution="yankee" display="yankee" locale="en_AU" />
+    <phonetic phrase="Y" substitution="yankee" display="yankee" locale="en_GB" />
+    <phonetic phrase="Y" substitution="yankee" display="yankee" locale="en_US" />
+    <phonetic phrase="Y" substitution="yanki" display="yanki" locale="es_MX" />
+    <phonetic phrase="Y" substitution="Yrjö" display="Yrjö" locale="fi_FI" />
+    <phonetic phrase="Y" substitution="Yvonne" display="Yvonne" locale="fr_CA" />
+    <phonetic phrase="Y" substitution="Yvonne" display="Yvonne" locale="fr_FR" />
+    <phonetic phrase="Y" substitution="ヤンキー" display="ヤンキー" locale="ja_JP" />
+    <phonetic phrase="Y" substitution="얭키" display="얭키" locale="ko_KR" />
+    <phonetic phrase="Y" substitution="yankee" display="yankee" locale="nl_NL" />
+    <phonetic phrase="Y" substitution="yes" display="yes" locale="pt_BR" />
+    <phonetic phrase="Y" substitution="Yngve" display="Yngve" locale="sv_SE" />
+    <phonetic phrase="Y" substitution="美国人" display="美国人" locale="zh_CN" />
+    <phonetic phrase="Z" substitution="zulu" display="zulu" locale="da_DK" />
+    <phonetic phrase="Z" substitution="zulu" display="zulu" locale="en_AU" />
+    <phonetic phrase="Z" substitution="zulu" display="zulu" locale="en_GB" />
+    <phonetic phrase="Z" substitution="zulu" display="zulu" locale="en_US" />
+    <phonetic phrase="Z" substitution="zulu" display="zulu" locale="es_MX" />
+    <phonetic phrase="Z" substitution="Tseta" display="Tseta" locale="fi_FI" />
+    <phonetic phrase="Z" substitution="Zoé" display="Zoe" locale="fr_CA" />
+    <phonetic phrase="Z" substitution="Zoé" display="Zoe" locale="fr_FR" />
+    <phonetic phrase="Z" substitution="ズールー" display="ズールー" locale="ja_JP" />
+    <phonetic phrase="Z" substitution="줄루" display="줄루" locale="ko_KR" />
+    <phonetic phrase="Z" substitution="zulu" display="zulu" locale="nl_NL" />
+    <phonetic phrase="Z" substitution="zebra" display="zebra" locale="pt_BR" />
+    <phonetic phrase="Z" substitution="Zäta" display="Zäta" locale="sv_SE" />
+    <phonetic phrase="Z" substitution="祖鲁" display="祖鲁" locale="zh_CN" />
+    <phonetic phrase="\" substitution="Omvendt skråstreg" display="Omvendt skråstreg" locale="da_DK" />
+    <phonetic phrase="\" substitution="back slash" display="back slash" locale="en_AU" />
+    <phonetic phrase="\" substitution="back slash" display="back slash" locale="en_GB" />
+    <phonetic phrase="\" substitution="back slash" display="back slash" locale="en_US" />
+    <phonetic phrase="\" substitution="barra invertida" display="barra invertida" locale="es_MX" />
+    <phonetic phrase="\" substitution="kenoviiva" display="kenoviiva" locale="fi_FI" />
+    <phonetic phrase="\" substitution="barre oblique inverse" display="barre oblique inverse" locale="fr_CA" />
+    <phonetic phrase="\" substitution="barre oblique inverse" display="barre oblique inverse" locale="fr_FR" />
+    <phonetic phrase="\" substitution="円記号" display="円記号" locale="ja_JP" />
+    <phonetic phrase="\" substitution="역슬래시" display="역슬래시" locale="ko_KR" />
+    <phonetic phrase="\" substitution="backslash" display="\" locale="nl_NL" />
+    <phonetic phrase="\" substitution="barra invertida" display="barra invertida" locale="pt_BR" />
+    <phonetic phrase="\" substitution="bakåtvänt snedstreck" display="bakåtvänt snedstreck" locale="sv_SE" />
+    <phonetic phrase="\" substitution="反斜杠" display="反斜杠" locale="zh_CN" />
+    <phonetic phrase="all cartons" substitution="alle kartoner" display="alle kartoner" locale="da_DK" />
+    <phonetic phrase="all cartons" substitution="todas las cajas de cartón" display="todas las cajas de cartón" locale="es_MX" />
+    <phonetic phrase="all cartons" substitution="kaikki keräyslaatikot" display="kaikki keräyslaatikot" locale="fi_FI" />
+    <phonetic phrase="all cartons" substitution="toutes les caisses" display="toutes les caisses" locale="fr_CA" />
+    <phonetic phrase="all cartons" substitution="toutes les caisses" display="toutes les caisses" locale="fr_FR" />
+    <phonetic phrase="all cartons" substitution="すべてのカートン" display="すべてのカートン" locale="ja_JP" />
+    <phonetic phrase="all cartons" substitution="모든 상자" display="모든 상자" locale="ko_KR" />
+    <phonetic phrase="all cartons" substitution="alle dozen" display="alle dozen" locale="nl_NL" />
+    <phonetic phrase="all cartons" substitution="todas as caixas" display="todas as caixas" locale="pt_BR" />
+    <phonetic phrase="all cartons" substitution="alla kartonger" display="alla kartonger" locale="sv_SE" />
+    <phonetic phrase="all cartons" substitution="所有纸箱" display="所有纸箱" locale="zh_CN" />
+    <phonetic phrase="all entries" substitution="alle indgange" display="alle indgange" locale="da_DK" />
+    <phonetic phrase="all entries" substitution="todas las entradas" display="todas las entradas" locale="es_MX" />
+    <phonetic phrase="all entries" substitution="kaikki syöttötiedot" display="kaikki syöttötiedot" locale="fi_FI" />
+    <phonetic phrase="all entries" substitution="Toutes les entrées" display="Toutes les entrées" locale="fr_CA" />
+    <phonetic phrase="all entries" substitution="Toutes les entrées" display="Toutes les entrées" locale="fr_FR" />
+    <phonetic phrase="all entries" substitution="すべての入力" display="すべての入力" locale="ja_JP" />
+    <phonetic phrase="all entries" substitution="모든 항목" display="모든 항목" locale="ko_KR" />
+    <phonetic phrase="all entries" substitution="alle invoer" display="alle invoer" locale="nl_NL" />
+    <phonetic phrase="all entries" substitution="todas entradas" display="todas entradas" locale="pt_BR" />
+    <phonetic phrase="all entries" substitution="alla poster" display="alla poster" locale="sv_SE" />
+    <phonetic phrase="all entries" substitution="所有输入" display="所有输入" locale="zh_CN" />
+    <phonetic phrase="all" substitution="alle" display="alle" locale="da_DK" />
+    <phonetic phrase="all" substitution="todo" display="todo" locale="es_MX" />
+    <phonetic phrase="all" substitution="kaikki" display="kaikki" locale="fi_FI" />
+    <phonetic phrase="all" substitution="tous" display="tous" locale="fr_CA" />
+    <phonetic phrase="all" substitution="tous" display="tous" locale="fr_FR" />
+    <phonetic phrase="all" substitution="すべて" display="すべて" locale="ja_JP" />
+    <phonetic phrase="all" substitution="모두" display="모두" locale="ko_KR" />
+    <phonetic phrase="all" substitution="alles" display="alles" locale="nl_NL" />
+    <phonetic phrase="all" substitution="todos" display="todos" locale="pt_BR" />
+    <phonetic phrase="all" substitution="alla" display="alla" locale="sv_SE" />
+    <phonetic phrase="all" substitution="所有" display="所有" locale="zh_CN" />
+    <phonetic phrase="backup" substitution="sauvegarder" display="sauvegarder" locale="fr_CA" />
+    <phonetic phrase="cancel" substitution="annuller" display="annuller" locale="da_DK" />
+    <phonetic phrase="cancel" substitution="cancelar" display="cancelar" locale="es_MX" />
+    <phonetic phrase="cancel" substitution="peruuta" display="peruuta" locale="fi_FI" />
+    <phonetic phrase="cancel" substitution="annuler" display="annuler" locale="fr_CA" />
+    <phonetic phrase="cancel" substitution="annuler" display="annuler" locale="fr_FR" />
+    <phonetic phrase="cancel" substitution="キャンセル" display="キャンセル" locale="ja_JP" />
+    <phonetic phrase="cancel" substitution="취소" display="취소" locale="ko_KR" />
+    <phonetic phrase="cancel" substitution="annuleren" display="annuleren" locale="nl_NL" />
+    <phonetic phrase="cancel" substitution="cancelar" display="cancelar" locale="pt_BR" />
+    <phonetic phrase="cancel" substitution="annullera" display="annullera" locale="sv_SE" />
+    <phonetic phrase="cancel" substitution="取消" display="取消" locale="zh_CN" />
+    <phonetic phrase="carton ID" substitution="karton-id" display="karton-id" locale="da_DK" />
+    <phonetic phrase="carton ID" substitution="identificador de cajas de cartón" display="identificador de cajas de cartón" locale="es_MX" />
+    <phonetic phrase="carton ID" substitution="keräyslaatikon tunnus" display="keräyslaatikon tunnus" locale="fi_FI" />
+    <phonetic phrase="carton ID" substitution="identifiant du carton" display="identifiant du carton" locale="fr_CA" />
+    <phonetic phrase="carton ID" substitution="identifiant du carton" display="identifiant du carton" locale="fr_FR" />
+    <phonetic phrase="carton ID" substitution="カートン ID" display="カートン ID" locale="ja_JP" />
+    <phonetic phrase="carton ID" substitution="상자 id" display="상자 id" locale="ko_KR" />
+    <phonetic phrase="carton ID" substitution="dooscode" display="dooscode" locale="nl_NL" />
+    <phonetic phrase="carton ID" substitution="id da caixa" display="id da caixa" locale="pt_BR" />
+    <phonetic phrase="carton ID" substitution="kartong-ID" display="kartong-ID" locale="sv_SE" />
+    <phonetic phrase="carton ID" substitution="纸箱 ID" display="纸箱 ID" locale="zh_CN" />
+    <phonetic phrase="case code" substitution="kassekode" display="kassekode" locale="da_DK" />
+    <phonetic phrase="case code" substitution="código de caja" display="código de caja" locale="es_MX" />
+    <phonetic phrase="case code" substitution="laatikkokoodi" display="laatikkokoodi" locale="fi_FI" />
+    <phonetic phrase="case code" substitution="code de la boîte" display="code de la boîte" locale="fr_CA" />
+    <phonetic phrase="case code" substitution="code de la boîte" display="code de la boîte" locale="fr_FR" />
+    <phonetic phrase="case code" substitution="ケース コード" display="ケース コード" locale="ja_JP" />
+    <phonetic phrase="case code" substitution="케이스 코드" display="케이스 코드" locale="ko_KR" />
+    <phonetic phrase="case code" substitution="kratcode" display="kratcode" locale="nl_NL" />
+    <phonetic phrase="case code" substitution="código da caixa" display="código da caixa" locale="pt_BR" />
+    <phonetic phrase="case code" substitution="lådkod" display="lådkod" locale="sv_SE" />
+    <phonetic phrase="case code" substitution="箱码" display="箱码" locale="zh_CN" />
+    <phonetic phrase="change function" substitution="skift funktion" display="skift funktion" locale="da_DK" />
+    <phonetic phrase="change function" substitution="cambiar función" display="cambiar función" locale="es_MX" />
+    <phonetic phrase="change function" substitution="vaihda toiminto" display="vaihda toiminto" locale="fi_FI" />
+    <phonetic phrase="change function" substitution="changer la fonction" display="changer la fonction" locale="fr_CA" />
+    <phonetic phrase="change function" substitution="changer la fonction" display="changer la fonction" locale="fr_FR" />
+    <phonetic phrase="change function" substitution="機能変更" display="機能変更" locale="ja_JP" />
+    <phonetic phrase="change function" substitution="업무 변경" display="업무 변경" locale="ko_KR" />
+    <phonetic phrase="change function" substitution="functie wijzigen" display="functie wijzigen" locale="nl_NL" />
+    <phonetic phrase="change function" substitution="alterar função" display="alterar função" locale="pt_BR" />
+    <phonetic phrase="change function" substitution="byt funktion" display="byt funktion" locale="sv_SE" />
+    <phonetic phrase="change function" substitution="更改功能" display="更改功能" locale="zh_CN" />
+    <phonetic phrase="change load" substitution="ændr indlæs" display="ændr indlæs" locale="da_DK" />
+    <phonetic phrase="change load" substitution="cambiar carga" display="cambiar carga" locale="es_MX" />
+    <phonetic phrase="change load" substitution="vaihda kuorma" display="vaihda kuorma" locale="fi_FI" />
+    <phonetic phrase="change load" substitution="changer le chargement" display="changer le chargement" locale="fr_CA" />
+    <phonetic phrase="change load" substitution="changer le chargement" display="changer le chargement" locale="fr_FR" />
+    <phonetic phrase="change load" substitution="積み込みの変更" display="積み込みの変更" locale="ja_JP" />
+    <phonetic phrase="change load" substitution="적재 변경" display="적재 변경" locale="ko_KR" />
+    <phonetic phrase="change load" substitution="lading wijzigen" display="lading wijzigen" locale="nl_NL" />
+    <phonetic phrase="change load" substitution="trocar carga" display="trocar carga" locale="pt_BR" />
+    <phonetic phrase="change load" substitution="ändra inläsning" display="ändra inläsning" locale="sv_SE" />
+    <phonetic phrase="change load" substitution="更改加载" display="更改加载" locale="zh_CN" />
+    <phonetic phrase="change region" substitution="skift region" display="skift region" locale="da_DK" />
+    <phonetic phrase="change region" substitution="cambiar región" display="cambiar región" locale="es_MX" />
+    <phonetic phrase="change region" substitution="vaihda alue" display="vaihda alue" locale="fi_FI" />
+    <phonetic phrase="change region" substitution="changer la région" display="changer la region" locale="fr_CA" />
+    <phonetic phrase="change region" substitution="changer la région" display="changer la region" locale="fr_FR" />
+    <phonetic phrase="change region" substitution="領域の変更" display="領域の変更" locale="ja_JP" />
+    <phonetic phrase="change region" substitution="구역 변경" display="구역 변경" locale="ko_KR" />
+    <phonetic phrase="change region" substitution="gedeelte wijzigen" display="gedeelte wijzigen" locale="nl_NL" />
+    <phonetic phrase="change region" substitution="alterar região" display="alterar região" locale="pt_BR" />
+    <phonetic phrase="change region" substitution="byt region" display="byt region" locale="sv_SE" />
+    <phonetic phrase="change region" substitution="更改区域" display="更改区域" locale="zh_CN" />
+    <phonetic phrase="change route" substitution="skift rute" display="skift rute" locale="da_DK" />
+    <phonetic phrase="change route" substitution="change route" display="change route" locale="en_US" />
+    <phonetic phrase="change route" substitution="cambiar ruta" display="cambiar ruta" locale="es_MX" />
+    <phonetic phrase="change route" substitution="vaihda reitti" display="vaihda reitti" locale="fi_FI" />
+    <phonetic phrase="change route" substitution="Changer le chemin" display="Changer le chemin" locale="fr_CA" />
+    <phonetic phrase="change route" substitution="changer le chemin" display="changer le chemin" locale="fr_FR" />
+    <phonetic phrase="change route" substitution="ルート変更" display="ルート変更" locale="ja_JP" />
+    <phonetic phrase="change route" substitution="경로 변경" display="경로 변경" locale="ko_KR" />
+    <phonetic phrase="change route" substitution="route wijzigen" display="route wijzigen" locale="nl_NL" />
+    <phonetic phrase="change route" substitution="alterar rota" display="alterar rota" locale="pt_BR" />
+    <phonetic phrase="change route" substitution="ändra rutt" display="ändra rutt" locale="sv_SE" />
+    <phonetic phrase="change route" substitution="更改路线" display="更改路线" locale="zh_CN" />
+    <phonetic phrase="change spur" substitution="skift spor" display="skift spor" locale="da_DK" />
+    <phonetic phrase="change spur" substitution="cambiar ramal" display="cambiar ramal" locale="es_MX" />
+    <phonetic phrase="change spur" substitution="vaihda kuljetinhaara" display="vaihda kuljetinhaara" locale="fi_FI" />
+    <phonetic phrase="change spur" substitution="Modifier voie de dérivation en cul de sac" display="Modifier voie de dérivation en cul de sac" locale="fr_CA" />
+    <phonetic phrase="change spur" substitution="Modifier voie de dérivation en cul de sac" display="Modifier voie de dérivation en cul de sac" locale="fr_FR" />
+    <phonetic phrase="change spur" substitution="シュートの変更" display="シュートの変更" locale="ja_JP" />
+    <phonetic phrase="change spur" substitution="말단 지점 변경" display="말단 지점 변경" locale="ko_KR" />
+    <phonetic phrase="change spur" substitution="spoor wijzigen" display="spoor wijzigen" locale="nl_NL" />
+    <phonetic phrase="change spur" substitution="alterar bico" display="alterar bico" locale="pt_BR" />
+    <phonetic phrase="change spur" substitution="byt utlöpare" display="byt utlöpare" locale="sv_SE" />
+    <phonetic phrase="change spur" substitution="更改支线" display="更改支线" locale="zh_CN" />
+    <phonetic phrase="close container" substitution="luk beholder" display="luk beholder" locale="da_DK" />
+    <phonetic phrase="close container" substitution="cerrar contenedor" display="cerrar contenedor" locale="es_MX" />
+    <phonetic phrase="close container" substitution="sulje lava" display="sulje lava" locale="fi_FI" />
+    <phonetic phrase="close container" substitution="fermer le conteneur" display="fermer le conteneur" locale="fr_CA" />
+    <phonetic phrase="close container" substitution="fermer le conteneur" display="fermer le conteneur" locale="fr_FR" />
+    <phonetic phrase="close container" substitution="容器を閉める" display="容器を閉める" locale="ja_JP" />
+    <phonetic phrase="close container" substitution="컨테이너 닫기" display="컨테이너 닫기" locale="ko_KR" />
+    <phonetic phrase="close container" substitution="container afsluiten" display="container afsluiten" locale="nl_NL" />
+    <phonetic phrase="close container" substitution="fechar contêiner" display="fechar contêiner" locale="pt_BR" />
+    <phonetic phrase="close container" substitution="stäng behållare" display="close container" locale="sv_SE" />
+    <phonetic phrase="close container" substitution="关闭容器" display="关闭容器" locale="zh_CN" />
+    <phonetic phrase="close stop" substitution="luk spor" display="luk stop" locale="da_DK" />
+    <phonetic phrase="close stop" substitution="cierre de detención" display="cierre de detención" locale="es_MX" />
+    <phonetic phrase="close stop" substitution="sulje pysäkki" display="sulje pysäkki" locale="fi_FI" />
+    <phonetic phrase="close stop" substitution="Fermer arrêt pour livraison" display="Fermer arrêt pour livraison" locale="fr_CA" />
+    <phonetic phrase="close stop" substitution="Fermer arrêt pour livraison" display="Fermer arrêt pour livraison" locale="fr_FR" />
+    <phonetic phrase="close stop" substitution="荷降ろし場所を閉める" display="荷降ろし場所を閉める" locale="ja_JP" />
+    <phonetic phrase="close stop" substitution="인근 경유자" display="인근 경유지" locale="ko_KR" />
+    <phonetic phrase="close stop" substitution="stop sluiten" display="stop sluiten" locale="nl_NL" />
+    <phonetic phrase="close stop" substitution="fechar parada" display="fechar parada" locale="pt_BR" />
+    <phonetic phrase="close stop" substitution="stäng stopp" display="stäng stopp" locale="sv_SE" />
+    <phonetic phrase="close stop" substitution="关闭站点" display="关闭站点" locale="zh_CN" />
+    <phonetic phrase="complete load" substitution="færdiggør indlæsning" display="færdiggør indlæsning" locale="da_DK" />
+    <phonetic phrase="complete load" substitution="completar carga" display="completar carga" locale="es_MX" />
+    <phonetic phrase="complete load" substitution="viimeistele kuorma" display="viimeistele kuorma" locale="fi_FI" />
+    <phonetic phrase="complete load" substitution="terminer le chargement" display="terminer le chargement" locale="fr_CA" />
+    <phonetic phrase="complete load" substitution="terminer le chargement" display="terminer le chargement" locale="fr_FR" />
+    <phonetic phrase="complete load" substitution="積み込みの完了" display="積み込みの完了" locale="ja_JP" />
+    <phonetic phrase="complete load" substitution="적재 완료" display="적재 완료" locale="ko_KR" />
+    <phonetic phrase="complete load" substitution="lading voltooid" display="lading voltooid" locale="nl_NL" />
+    <phonetic phrase="complete load" substitution="completar carga" display="completar carga" locale="pt_BR" />
+    <phonetic phrase="complete load" substitution="slutför inläsning" display="slutför inläsning" locale="sv_SE" />
+    <phonetic phrase="complete load" substitution="完成加载" display="完成加载" locale="zh_CN" />
+    <phonetic phrase="complete route" substitution="færdiggør rute" display="færdiggør rute" locale="da_DK" />
+    <phonetic phrase="complete route" substitution="complete route" display="complete route" locale="en_US" />
+    <phonetic phrase="complete route" substitution="ruta completa" display="ruta completa" locale="es_MX" />
+    <phonetic phrase="complete route" substitution="reitti valmis" display="reitti valmis" locale="fi_FI" />
+    <phonetic phrase="complete route" substitution="Terminer le chemin" display="Terminer le chemin" locale="fr_CA" />
+    <phonetic phrase="complete route" substitution="Terminer le chemin" display="Terminer le chemin" locale="fr_FR" />
+    <phonetic phrase="complete route" substitution="ルート完了" display="ルート完了" locale="ja_JP" />
+    <phonetic phrase="complete route" substitution="경로 완료" display="경로 완료" locale="ko_KR" />
+    <phonetic phrase="complete route" substitution="volledige route" display="volledige route" locale="nl_NL" />
+    <phonetic phrase="complete route" substitution="concluir a rota" display="concluir a rota" locale="pt_BR" />
+    <phonetic phrase="complete route" substitution="avsluta rutt" display="avsluta rutt" locale="sv_SE" />
+    <phonetic phrase="complete route" substitution="完成路线" display="完成路线" locale="zh_CN" />
+    <phonetic phrase="consolidate" substitution="konsolider" display="konsolider" locale="da_DK" />
+    <phonetic phrase="consolidate" substitution="agrupar" display="agrupar" locale="es_MX" />
+    <phonetic phrase="consolidate" substitution="yhdistä" display="yhdistä" locale="fi_FI" />
+    <phonetic phrase="consolidate" substitution="consolider" display="consolider" locale="fr_CA" />
+    <phonetic phrase="consolidate" substitution="consolider" display="consolider" locale="fr_FR" />
+    <phonetic phrase="consolidate" substitution="結合" display="結合" locale="ja_JP" />
+    <phonetic phrase="consolidate" substitution="연결" display="연결" locale="ko_KR" />
+    <phonetic phrase="consolidate" substitution="samenvoegen" display="samenvoegen" locale="nl_NL" />
+    <phonetic phrase="consolidate" substitution="consolidar" display="consolidar" locale="pt_BR" />
+    <phonetic phrase="consolidate" substitution="konsolidera" display="konsolidera" locale="sv_SE" />
+    <phonetic phrase="consolidate" substitution="合并" display="合并" locale="zh_CN" />
+    <phonetic phrase="continue" substitution="fortsæt" display="fortsæt" locale="da_DK" />
+    <phonetic phrase="continue" substitution="continuar" display="continuar" locale="es_MX" />
+    <phonetic phrase="continue" substitution="jatka" display="jatka" locale="fi_FI" />
+    <phonetic phrase="continue" substitution="continuer" display="continuer" locale="fr_CA" />
+    <phonetic phrase="continue" substitution="continuer" display="continuer" locale="fr_FR" />
+    <phonetic phrase="continue" substitution="続行" display="続行" locale="ja_JP" />
+    <phonetic phrase="continue" substitution="계속" display="계속" locale="ko_KR" />
+    <phonetic phrase="continue" substitution="doorgaan" display="doorgaan" locale="nl_NL" />
+    <phonetic phrase="continue" substitution="continuar" display="continuar" locale="pt_BR" />
+    <phonetic phrase="continue" substitution="fortsätt" display="fortsätt" locale="sv_SE" />
+    <phonetic phrase="continue" substitution="继续" display="继续" locale="zh_CN" />
+    <phonetic phrase="current" substitution="en cours" display="en cours" locale="fr_CA" />
+    <phonetic phrase="description" substitution="beskrivelse" display="beskrivelse" locale="da_DK" />
+    <phonetic phrase="description" substitution="descripción" display="descripción" locale="es_MX" />
+    <phonetic phrase="description" substitution="kuvaus" display="kuvaus" locale="fi_FI" />
+    <phonetic phrase="description" substitution="詳細" display="詳細" locale="ja_JP" />
+    <phonetic phrase="description" substitution="설명" display="설명" locale="ko_KR" />
+    <phonetic phrase="description" substitution="beschrijving" display="beschrijving" locale="nl_NL" />
+    <phonetic phrase="description" substitution="descrição" display="descrição" locale="pt_BR" />
+    <phonetic phrase="description" substitution="beskrivning" display="beskrivning" locale="sv_SE" />
+    <phonetic phrase="description" substitution="描述" display="描述" locale="zh_CN" />
+    <phonetic phrase="erase" substitution="effacer" display="effacer" locale="fr_CA" />
+    <phonetic phrase="goal time" substitution="måltid" display="måltid" locale="da_DK" />
+    <phonetic phrase="goal time" substitution="tiempo objetivo" display="tiempo objetivo" locale="es_MX" />
+    <phonetic phrase="goal time" substitution="tavoiteaika" display="tavoiteaika" locale="fi_FI" />
+    <phonetic phrase="goal time" substitution="durée prévue" display="duree prevue" locale="fr_CA" />
+    <phonetic phrase="goal time" substitution="durée prévue" display="duree prevue" locale="fr_FR" />
+    <phonetic phrase="goal time" substitution="目標作業時間" display="目標作業時間" locale="ja_JP" />
+    <phonetic phrase="goal time" substitution="목표 시간" display="목표 시간" locale="ko_KR" />
+    <phonetic phrase="goal time" substitution="doeltijd" display="doeltijd" locale="nl_NL" />
+    <phonetic phrase="goal time" substitution="horário do objetivo" display="horário do objetivo" locale="pt_BR" />
+    <phonetic phrase="goal time" substitution="beräknad tid" display="beräknad tid" locale="sv_SE" />
+    <phonetic phrase="goal time" substitution="目标时间" display="目标时间" locale="zh_CN" />
+    <phonetic phrase="help" substitution="à l'aide" display="a l'aide" locale="fr_CA" />
+    <phonetic phrase="how much more" substitution="hvor meget mere" display="hvor meget mere" locale="da_DK" />
+    <phonetic phrase="how much more" substitution="cuánto más" display="cuánto más" locale="es_MX" />
+    <phonetic phrase="how much more" substitution="paljonko lisää" display="paljonko lisää" locale="fi_FI" />
+    <phonetic phrase="how much more" substitution="combien de plus" display="combien de plus" locale="fr_CA" />
+    <phonetic phrase="how much more" substitution="combien de plus" display="combien de plus" locale="fr_FR" />
+    <phonetic phrase="how much more" substitution="あとどれくらい" display="あとどれくらい" locale="ja_JP" />
+    <phonetic phrase="how much more" substitution="남은 수량" display="남은 수량" locale="ko_KR" />
+    <phonetic phrase="how much more" substitution="hoeveel meer" display="hoeveel meer" locale="nl_NL" />
+    <phonetic phrase="how much more" substitution="Quanto mais" display="Quanto mais" locale="pt_BR" />
+    <phonetic phrase="how much more" substitution="hur mycket mer" display="hur mycket mer" locale="sv_SE" />
+    <phonetic phrase="how much more" substitution="还有多少" display="还有多少" locale="zh_CN" />
+    <phonetic phrase="invalid" substitution="Ugyldig" display="Ugyldig" locale="da_DK" />
+    <phonetic phrase="invalid" substitution="in valid" display="invalid" locale="en_AU" />
+    <phonetic phrase="invalid" substitution="in valid" display="invalid" locale="en_GB" />
+    <phonetic phrase="invalid" substitution="in valid" display="invalid" locale="en_US" />
+    <phonetic phrase="invalid" substitution="inválida" display="inválida" locale="es_MX" />
+    <phonetic phrase="invalid" substitution="ei kelpaa" display="ei kelpaa" locale="fi_FI" />
+    <phonetic phrase="invalid" substitution="non valable" display="non valable" locale="fr_CA" />
+    <phonetic phrase="invalid" substitution="non valable" display="non valable" locale="fr_FR" />
+    <phonetic phrase="invalid" substitution="無効" display="無効" locale="ja_JP" />
+    <phonetic phrase="invalid" substitution="잘못됨" display="잘못됨" locale="ko_KR" />
+    <phonetic phrase="invalid" substitution="Ongeldig" display="Ongeldig" locale="nl_NL" />
+    <phonetic phrase="invalid" substitution="inválida" display="inválida" locale="pt_BR" />
+    <phonetic phrase="invalid" substitution="Ogiltigt" display="Ogiltigt" locale="sv_SE" />
+    <phonetic phrase="invalid" substitution="无效" display="无效" locale="zh_CN" />
+    <phonetic phrase="item number" substitution="varenummer" display="varenummer" locale="da_DK" />
+    <phonetic phrase="item number" substitution="número de artículo" display="número de artículo" locale="es_MX" />
+    <phonetic phrase="item number" substitution="nimikenumero" display="nimikenumero" locale="fi_FI" />
+    <phonetic phrase="item number" substitution="numéro d'article" display="numero d'article" locale="fr_CA" />
+    <phonetic phrase="item number" substitution="numéro d'article" display="numero d'article" locale="fr_FR" />
+    <phonetic phrase="item number" substitution="商品番号" display="商品番号" locale="ja_JP" />
+    <phonetic phrase="item number" substitution="항목 번호" display="항목 번호" locale="ko_KR" />
+    <phonetic phrase="item number" substitution="itemnummer" display="itemnummer" locale="nl_NL" />
+    <phonetic phrase="item number" substitution="número do item" display="número do item" locale="pt_BR" />
+    <phonetic phrase="item number" substitution="artikelnummer" display="artikelnummer" locale="sv_SE" />
+    <phonetic phrase="item number" substitution="物件号" display="物件号" locale="zh_CN" />
+    <phonetic phrase="item" substitution="article" display="article" locale="fr_CA" />
+    <phonetic phrase="last entry" substitution="seneste indgang" display="seneste indgang" locale="da_DK" />
+    <phonetic phrase="last entry" substitution="Última entrada" display="Última entrada" locale="es_MX" />
+    <phonetic phrase="last entry" substitution="edellinen syöttötieto" display="edellinen syöttötieto" locale="fi_FI" />
+    <phonetic phrase="last entry" substitution="Dernière saisie" display="Dernière saisie" locale="fr_CA" />
+    <phonetic phrase="last entry" substitution="Dernière saisie" display="Dernière saisie" locale="fr_FR" />
+    <phonetic phrase="last entry" substitution="最後の入力" display="最後の入力" locale="ja_JP" />
+    <phonetic phrase="last entry" substitution="최종 입력" display="최종 입력" locale="ko_KR" />
+    <phonetic phrase="last entry" substitution="laatste invoer" display="laatste invoer" locale="nl_NL" />
+    <phonetic phrase="last entry" substitution="última entrada" display="última entrada" locale="pt_BR" />
+    <phonetic phrase="last entry" substitution="senaste post" display="senaste post" locale="sv_SE" />
+    <phonetic phrase="last entry" substitution="上次输入" display="上次输入" locale="zh_CN" />
+    <phonetic phrase="left" substitution="venstre" display="venstre" locale="da_DK" />
+    <phonetic phrase="left" substitution="izquierda" display="izquierda" locale="es_MX" />
+    <phonetic phrase="left" substitution="vasen" display="vasen" locale="fi_FI" />
+    <phonetic phrase="left" substitution="gauche" display="gauche" locale="fr_CA" />
+    <phonetic phrase="left" substitution="gauche" display="gauche" locale="fr_FR" />
+    <phonetic phrase="left" substitution="左" display="左" locale="ja_JP" />
+    <phonetic phrase="left" substitution="왼쪽" display="왼쪽" locale="ko_KR" />
+    <phonetic phrase="left" substitution="links" display="links" locale="nl_NL" />
+    <phonetic phrase="left" substitution="esquerda" display="esquerda" locale="pt_BR" />
+    <phonetic phrase="left" substitution="vänster" display="vänster" locale="sv_SE" />
+    <phonetic phrase="left" substitution="左" display="左" locale="zh_CN" />
+    <phonetic phrase="license plate" substitution="licensmærkat" display="licensmærkat" locale="da_DK" />
+    <phonetic phrase="license plate" substitution="placa de la licencia" display="placa de la licencia" locale="es_MX" />
+    <phonetic phrase="license plate" substitution="tunnistelevy " display="tunnistelevy " locale="fi_FI" />
+    <phonetic phrase="license plate" substitution="plaque d'identification" display="plaque d'identification" locale="fr_CA" />
+    <phonetic phrase="license plate" substitution="plaque d'identification" display="plaque d'identification" locale="fr_FR" />
+    <phonetic phrase="license plate" substitution="棚入れ番号" display="棚入れ番号" locale="ja_JP" />
+    <phonetic phrase="license plate" substitution="라이센스판" display="라이센스판" locale="ko_KR" />
+    <phonetic phrase="license plate" substitution="Licentieplaatje" display="Licentieplaatje" locale="nl_NL" />
+    <phonetic phrase="license plate" substitution="placa" display="placa" locale="pt_BR" />
+    <phonetic phrase="license plate" substitution="licensskylt" display="licensskylt" locale="sv_SE" />
+    <phonetic phrase="license plate" substitution="许可证照" display="许可证照" locale="zh_CN" />
+    <phonetic phrase="license" substitution="licens" display="licens" locale="da_DK" />
+    <phonetic phrase="license" substitution="license" display="licence" locale="en_GB" />
+    <phonetic phrase="license" substitution="licencia" display="licencia" locale="es_MX" />
+    <phonetic phrase="license" substitution="käyttölupa" display="käyttölupa" locale="fi_FI" />
+    <phonetic phrase="license" substitution="licence" display="licence" locale="fr_CA" />
+    <phonetic phrase="license" substitution="licence" display="licence" locale="fr_FR" />
+    <phonetic phrase="license" substitution="棚入れ番号" display="棚入れ番号" locale="ja_JP" />
+    <phonetic phrase="license" substitution="라이센스" display="라이센스" locale="ko_KR" />
+    <phonetic phrase="license" substitution="licentie" display="licentie" locale="nl_NL" />
+    <phonetic phrase="license" substitution="licença" display="licença" locale="pt_BR" />
+    <phonetic phrase="license" substitution="licens" display="licens" locale="sv_SE" />
+    <phonetic phrase="license" substitution="许可证" display="许可证" locale="zh_CN" />
+    <phonetic phrase="load number" substitution="Indlæs nummer" display="Indlæs nummer" locale="da_DK" />
+    <phonetic phrase="load number" substitution="número de carga" display="número de carga" locale="es_MX" />
+    <phonetic phrase="load number" substitution="kuorman numero" display="kuorman numero" locale="fi_FI" />
+    <phonetic phrase="load number" substitution="numéro de chargement" display="numéro de chargement" locale="fr_CA" />
+    <phonetic phrase="load number" substitution="numéro de chargement" display="numéro de chargement" locale="fr_FR" />
+    <phonetic phrase="load number" substitution="積み込み番号" display="積み込み番号" locale="ja_JP" />
+    <phonetic phrase="load number" substitution="적재 번호" display="적재 번호" locale="ko_KR" />
+    <phonetic phrase="load number" substitution="ladingnummer" display="ladingnummer" locale="nl_NL" />
+    <phonetic phrase="load number" substitution="número da carga" display="número da carga" locale="pt_BR" />
+    <phonetic phrase="load number" substitution="inläsningsnummer" display="inläsningsnummer" locale="sv_SE" />
+    <phonetic phrase="load number" substitution="加载编号" display="加载编号" locale="zh_CN" />
+    <phonetic phrase="location" substitution="placering" display="placering" locale="da_DK" />
+    <phonetic phrase="location" substitution="ubicación" display="ubicación" locale="es_MX" />
+    <phonetic phrase="location" substitution="paikka" display="paikka" locale="fi_FI" />
+    <phonetic phrase="location" substitution="emplacement" display="emplacement" locale="fr_CA" />
+    <phonetic phrase="location" substitution="emplacement" display="emplacement" locale="fr_FR" />
+    <phonetic phrase="location" substitution="ロケーション" display="ロケーション" locale="ja_JP" />
+    <phonetic phrase="location" substitution="위치" display="위치" locale="ko_KR" />
+    <phonetic phrase="location" substitution="locatie" display="locatie" locale="nl_NL" />
+    <phonetic phrase="location" substitution="local" display="local" locale="pt_BR" />
+    <phonetic phrase="location" substitution="plats" display="plats" locale="sv_SE" />
+    <phonetic phrase="location" substitution="位置" display="位置" locale="zh_CN" />
+    <phonetic phrase="louder" substitution="plus fort" display="plus fort" locale="fr_CA" />
+    <phonetic phrase="new container" substitution="ny beholder" display="ny beholder" locale="da_DK" />
+    <phonetic phrase="new container" substitution="nuevo contenedor" display="nuevo contenedor" locale="es_MX" />
+    <phonetic phrase="new container" substitution="uusi lava" display="uusi lava" locale="fi_FI" />
+    <phonetic phrase="new container" substitution="nouveau conteneur" display="nouveau conteneur" locale="fr_CA" />
+    <phonetic phrase="new container" substitution="nouveau conteneur" display="nouveau conteneur" locale="fr_FR" />
+    <phonetic phrase="new container" substitution="新しい容器" display="新しい容器" locale="ja_JP" />
+    <phonetic phrase="new container" substitution="새 컨테이너" display="새 컨테이너" locale="ko_KR" />
+    <phonetic phrase="new container" substitution="nieuwe container" display="nieuwe container" locale="nl_NL" />
+    <phonetic phrase="new container" substitution="novo contêiner" display="novo contêiner" locale="pt_BR" />
+    <phonetic phrase="new container" substitution="ny behållare" display="ny behållare" locale="sv_SE" />
+    <phonetic phrase="new container" substitution="新容器" display="新容器" locale="zh_CN" />
+    <phonetic phrase="new pallet" substitution="ny palle" display="ny palle" locale="da_DK" />
+    <phonetic phrase="new pallet" substitution="nueva tarima" display="nueva tarima" locale="es_MX" />
+    <phonetic phrase="new pallet" substitution="uusi lava" display="uusi lava" locale="fi_FI" />
+    <phonetic phrase="new pallet" substitution="Nouvelle palette" display="Nouvelle palette" locale="fr_CA" />
+    <phonetic phrase="new pallet" substitution="Nouvelle palette" display="Nouvelle palette" locale="fr_FR" />
+    <phonetic phrase="new pallet" substitution="新しいパレット" display="新しいパレット" locale="ja_JP" />
+    <phonetic phrase="new pallet" substitution="새 파레트" display="새 파레트" locale="ko_KR" />
+    <phonetic phrase="new pallet" substitution="nieuw pallet" display="nieuw pallet" locale="nl_NL" />
+    <phonetic phrase="new pallet" substitution="novo palete" display="novo palete" locale="pt_BR" />
+    <phonetic phrase="new pallet" substitution="ny pall" display="ny pall" locale="sv_SE" />
+    <phonetic phrase="new pallet" substitution="新货盘" display="新货盘" locale="zh_CN" />
+    <phonetic phrase="new vehicle" substitution="nouveau véhicule" display="nouveau vehicule" locale="fr_CA" />
+    <phonetic phrase="no more" substitution="ikke mere" display="ikke mere" locale="da_DK" />
+    <phonetic phrase="no more" substitution="nada más" display="nada más" locale="es_MX" />
+    <phonetic phrase="no more" substitution="ei enää" display="ei enää" locale="fi_FI" />
+    <phonetic phrase="no more" substitution="pas plus" display="pas plus" locale="fr_CA" />
+    <phonetic phrase="no more" substitution="pas plus" display="pas plus" locale="fr_FR" />
+    <phonetic phrase="no more" substitution="以上" display="以上" locale="ja_JP" />
+    <phonetic phrase="no more" substitution="더 이상 없음" display="더 이상 없음" locale="ko_KR" />
+    <phonetic phrase="no more" substitution="niet meer" display="niet meer" locale="nl_NL" />
+    <phonetic phrase="no more" substitution="não mais" display="não mais" locale="pt_BR" />
+    <phonetic phrase="no more" substitution="inga fler" display="inga fler" locale="sv_SE" />
+    <phonetic phrase="no more" substitution="不再有" display="不再有" locale="zh_CN" />
+    <phonetic phrase="no" substitution="nej" display="nej" locale="da_DK" />
+    <phonetic phrase="no" substitution="ei" display="ei" locale="fi_FI" />
+    <phonetic phrase="no" substitution="non" display="non" locale="fr_CA" />
+    <phonetic phrase="no" substitution="non" display="non" locale="fr_FR" />
+    <phonetic phrase="no" substitution="いいえ" display="いいえ" locale="ja_JP" />
+    <phonetic phrase="no" substitution="아니요" display="아니요" locale="ko_KR" />
+    <phonetic phrase="no" substitution="nee" display="nee" locale="nl_NL" />
+    <phonetic phrase="no" substitution="não" display="não" locale="pt_BR" />
+    <phonetic phrase="no" substitution="nej" display="nej" locale="sv_SE" />
+    <phonetic phrase="no" substitution="否" display="否" locale="zh_CN" />
+    <phonetic phrase="noise sample" substitution="analyse du bruit ambiant" display="analyse du bruit ambiant" locale="fr_CA" />
+    <phonetic phrase="override" substitution="tilsidesæt" display="tilsidesæt" locale="da_DK" />
+    <phonetic phrase="override" substitution="anular" display="anular" locale="es_MX" />
+    <phonetic phrase="override" substitution="kumoa" display="kumoa" locale="fi_FI" />
+    <phonetic phrase="override" substitution="annuler" display="annuler" locale="fr_CA" />
+    <phonetic phrase="override" substitution="annuler" display="annuler" locale="fr_FR" />
+    <phonetic phrase="override" substitution="変更" display="変更" locale="ja_JP" />
+    <phonetic phrase="override" substitution="초과 적재" display="초과 적재" locale="ko_KR" />
+    <phonetic phrase="override" substitution="overschrijven" display="overschrijven" locale="nl_NL" />
+    <phonetic phrase="override" substitution="anular" display="anular" locale="pt_BR" />
+    <phonetic phrase="override" substitution="åsidosätt" display="åsidosätt" locale="sv_SE" />
+    <phonetic phrase="override" substitution="覆盖" display="覆盖" locale="zh_CN" />
+    <phonetic phrase="partial" substitution="delvis" display="delvis" locale="da_DK" />
+    <phonetic phrase="partial" substitution="parcial" display="parcial" locale="es_MX" />
+    <phonetic phrase="partial" substitution="osittainen" display="osittainen" locale="fi_FI" />
+    <phonetic phrase="partial" substitution="partielle" display="partielle" locale="fr_CA" />
+    <phonetic phrase="partial" substitution="partielle" display="partielle" locale="fr_FR" />
+    <phonetic phrase="partial" substitution="分割" display="分割" locale="ja_JP" />
+    <phonetic phrase="partial" substitution="부분 적재" display="부분 적재" locale="ko_KR" />
+    <phonetic phrase="partial" substitution="gedeeltelijk" display="gedeeltelijk" locale="nl_NL" />
+    <phonetic phrase="partial" substitution="parcial" display="parcial" locale="pt_BR" />
+    <phonetic phrase="partial" substitution="delkvantitet" display="delkvantitet" locale="sv_SE" />
+    <phonetic phrase="partial" substitution="部分" display="部分" locale="zh_CN" />
+    <phonetic phrase="pass assignment" substitution="videresend opgave" display="videresend opgave" locale="da_DK" />
+    <phonetic phrase="pass assignment" substitution="delegar asignación" display="delegar asignación" locale="es_MX" />
+    <phonetic phrase="pass assignment" substitution="siirrä tehtävä" display="siirrä tehtävä" locale="fi_FI" />
+    <phonetic phrase="pass assignment" substitution="transferer" display="transferer" locale="fr_CA" />
+    <phonetic phrase="pass assignment" substitution="transferer" display="transferer" locale="fr_FR" />
+    <phonetic phrase="pass assignment" substitution="作業指示の引渡し" display="作業指示の引渡し" locale="ja_JP" />
+    <phonetic phrase="pass assignment" substitution="할당 인계" display="할당 인계" locale="ko_KR" />
+    <phonetic phrase="pass assignment" substitution="taak overslaan" display="taak overslaan" locale="nl_NL" />
+    <phonetic phrase="pass assignment" substitution="passar tarefa" display="passar tarefa" locale="pt_BR" />
+    <phonetic phrase="pass assignment" substitution="överför uppgift" display="överför uppgift" locale="sv_SE" />
+    <phonetic phrase="pass assignment" substitution="传递任务" display="传递任务" locale="zh_CN" />
+    <phonetic phrase="performance" substitution="ydelse" display="ydelse" locale="da_DK" />
+    <phonetic phrase="performance" substitution="desempeño" display="desempeño" locale="es_MX" />
+    <phonetic phrase="performance" substitution="suoritus" display="suoritus" locale="fi_FI" />
+    <phonetic phrase="performance" substitution="実績" display="実績" locale="ja_JP" />
+    <phonetic phrase="performance" substitution="성과" display="성과" locale="ko_KR" />
+    <phonetic phrase="performance" substitution="prestatie" display="prestatie" locale="nl_NL" />
+    <phonetic phrase="performance" substitution="desempenho" display="desempenho" locale="pt_BR" />
+    <phonetic phrase="performance" substitution="prestanda" display="performance" locale="sv_SE" />
+    <phonetic phrase="performance" substitution="性能" display="性能" locale="zh_CN" />
+    <phonetic phrase="quantity" substitution="mængde" display="mængde" locale="da_DK" />
+    <phonetic phrase="quantity" substitution="cantidad" display="cantidad" locale="es_MX" />
+    <phonetic phrase="quantity" substitution="määrä" display="määrä" locale="fi_FI" />
+    <phonetic phrase="quantity" substitution="quantité" display="quantite" locale="fr_CA" />
+    <phonetic phrase="quantity" substitution="quantité" display="quantite" locale="fr_FR" />
+    <phonetic phrase="quantity" substitution="数量" display="数量" locale="ja_JP" />
+    <phonetic phrase="quantity" substitution="수량" display="수량" locale="ko_KR" />
+    <phonetic phrase="quantity" substitution="hoeveelheid" display="hoeveelheid" locale="nl_NL" />
+    <phonetic phrase="quantity" substitution="quantidade" display="quantidade" locale="pt_BR" />
+    <phonetic phrase="quantity" substitution="kvantitet" display="kvantitet" locale="sv_SE" />
+    <phonetic phrase="quantity" substitution="数量" display="数量" locale="zh_CN" />
+    <phonetic phrase="quick repair" substitution="réparation rapide" display="reparation rapide" locale="fr_CA" />
+    <phonetic phrase="ready" substitution="klar" display="klar" locale="da_DK" />
+    <phonetic phrase="ready" substitution="listo" display="listo" locale="es_MX" />
+    <phonetic phrase="ready" substitution="valmis" display="valmis" locale="fi_FI" />
+    <phonetic phrase="ready" substitution="prêt" display="pret" locale="fr_CA" />
+    <phonetic phrase="ready" substitution="prêt" display="pret" locale="fr_FR" />
+    <phonetic phrase="ready" substitution="準備完了" display="準備完了" locale="ja_JP" />
+    <phonetic phrase="ready" substitution="준비" display="준비" locale="ko_KR" />
+    <phonetic phrase="ready" substitution="gereed" display="gereed" locale="nl_NL" />
+    <phonetic phrase="ready" substitution="pronto" display="pronto" locale="pt_BR" />
+    <phonetic phrase="ready" substitution="klar" display="klar" locale="sv_SE" />
+    <phonetic phrase="ready" substitution="就绪" display="就绪" locale="zh_CN" />
+    <phonetic phrase="release license" substitution="frigiv licens" display="frigiv licens" locale="da_DK" />
+    <phonetic phrase="release license" substitution="release license" display="release licence" locale="en_GB" />
+    <phonetic phrase="release license" substitution="liberar licencia" display="liberar licencia" locale="es_MX" />
+    <phonetic phrase="release license" substitution="vapauta käyttölupa" display="vapauta käyttölupa" locale="fi_FI" />
+    <phonetic phrase="release license" substitution="émettre la licence" display="emettre la licence" locale="fr_CA" />
+    <phonetic phrase="release license" substitution="émettre la licence" display="emettre la licence" locale="fr_FR" />
+    <phonetic phrase="release license" substitution="棚入れ番号のリリース" display="棚入れ番号のリリース" locale="ja_JP" />
+    <phonetic phrase="release license" substitution="라이센스 해제" display="라이센스 해제" locale="ko_KR" />
+    <phonetic phrase="release license" substitution="licentie vrijgeven" display="licentie vrijgeven" locale="nl_NL" />
+    <phonetic phrase="release license" substitution="liberar licença" display="liberar licença" locale="pt_BR" />
+    <phonetic phrase="release license" substitution="frigör licens" display="frigör licens" locale="sv_SE" />
+    <phonetic phrase="release license" substitution="发布许可证" display="发布许可证" locale="zh_CN" />
+    <phonetic phrase="repeat last pick" substitution="gentag sidste udtagning" display="gentag sidste udtagning" locale="da_DK" />
+    <phonetic phrase="repeat last pick" substitution="repetir última selección" display="repetir última selección" locale="es_MX" />
+    <phonetic phrase="repeat last pick" substitution="toista viimeinen keräily" display="toista viimeinen keräily" locale="fi_FI" />
+    <phonetic phrase="repeat last pick" substitution="répéter le dernier ramassage" display="repeter le dernier ramassage" locale="fr_CA" />
+    <phonetic phrase="repeat last pick" substitution="répéter le dernier ramassage" display="repeter le dernier ramassage" locale="fr_FR" />
+    <phonetic phrase="repeat last pick" substitution="最後の作業の確認" display="最後の作業の確認" locale="ja_JP" />
+    <phonetic phrase="repeat last pick" substitution="마지막 적재 작업 반복" display="마지막 적재 작업 반복" locale="ko_KR" />
+    <phonetic phrase="repeat last pick" substitution="laatste pick herhalen" display="laatste pick herhalen" locale="nl_NL" />
+    <phonetic phrase="repeat last pick" substitution="repetir última separação" display="repetir última separação" locale="pt_BR" />
+    <phonetic phrase="repeat last pick" substitution="upprepa senaste plockning" display="upprepa senaste plockning" locale="sv_SE" />
+    <phonetic phrase="repeat last pick" substitution="重复上次挑拣" display="重复上次挑拣" locale="zh_CN" />
+    <phonetic phrase="repeat last put" substitution="gentag sidste placering" display="gentag sidste placering" locale="da_DK" />
+    <phonetic phrase="repeat last put" substitution="repetir última colocación" display="repetir última colocación" locale="es_MX" />
+    <phonetic phrase="repeat last put" substitution="toista viimeinen hyllytys" display="toista viimeinen hyllytys" locale="fi_FI" />
+    <phonetic phrase="repeat last put" substitution="répéter le dernier article rangé" display="répéter le dernier article rangé" locale="fr_CA" />
+    <phonetic phrase="repeat last put" substitution="répéter le dernier article rangé" display="répéter le dernier article rangé" locale="fr_FR" />
+    <phonetic phrase="repeat last put" substitution="最後の配置の確認" display="最後の配置の確認" locale="ja_JP" />
+    <phonetic phrase="repeat last put" substitution="마지막 적재 반복" display="마지막 적재 반복" locale="ko_KR" />
+    <phonetic phrase="repeat last put" substitution="laatst opgeborgen herhalen" display="laatst opgeborgen herhalen" locale="nl_NL" />
+    <phonetic phrase="repeat last put" substitution="repetir última colocação" display="repetir última colocação" locale="pt_BR" />
+    <phonetic phrase="repeat last put" substitution="upprepa senaste placering" display="upprepa senaste placering" locale="sv_SE" />
+    <phonetic phrase="repeat last put" substitution="重复上次放置" display="重复上次放置" locale="zh_CN" />
+    <phonetic phrase="repeat" substitution="répéter" display="repeter" locale="fr_CA" />
+    <phonetic phrase="repick skips" substitution="udtag ignorerede igen" display="udtag ignorerede igen" locale="da_DK" />
+    <phonetic phrase="repick skips" substitution="volver a seleccionar omisiones" display="volver a seleccionar omisiones" locale="es_MX" />
+    <phonetic phrase="repick skips" substitution="keräile väliin jätetyt" display="keräile väliin jätetyt" locale="fi_FI" />
+    <phonetic phrase="repick skips" substitution="ramasser les sautés" display="ramasser les sautes" locale="fr_CA" />
+    <phonetic phrase="repick skips" substitution="ramasser les sautés" display="ramasser les sautes" locale="fr_FR" />
+    <phonetic phrase="repick skips" substitution="スキップ分の再ピック" display="スキップ分の再ピック" locale="ja_JP" />
+    <phonetic phrase="repick skips" substitution="건너뛴 항목 다시 적재" display="건너뛴 항목 다시 적재" locale="ko_KR" />
+    <phonetic phrase="repick skips" substitution="overgeslagen items opnieuw picken" display="overgeslagen items opnieuw picken" locale="nl_NL" />
+    <phonetic phrase="repick skips" substitution="separar pulados" display="separar pulados" locale="pt_BR" />
+    <phonetic phrase="repick skips" substitution="plocka överhoppade igen" display="plocka överhoppade igen" locale="sv_SE" />
+    <phonetic phrase="repick skips" substitution="重新挑拣跳过物件" display="重新挑拣跳过物件" locale="zh_CN" />
+    <phonetic phrase="reprint labels" substitution="genudskriv etiketter" display="genudskriv etiketter" locale="da_DK" />
+    <phonetic phrase="reprint labels" substitution="reimprimir etiquetas" display="reimprimir etiquetas" locale="es_MX" />
+    <phonetic phrase="reprint labels" substitution="tulosta uudet tarrat" display="tulosta uudet tarrat" locale="fi_FI" />
+    <phonetic phrase="reprint labels" substitution="réimprimer les étiquettes" display="reimprimer les etiquettes" locale="fr_CA" />
+    <phonetic phrase="reprint labels" substitution="réimprimer les étiquettes" display="reimprimer les etiquettes" locale="fr_FR" />
+    <phonetic phrase="reprint labels" substitution="ラベルの再印刷" display="ラベルの再印刷" locale="ja_JP" />
+    <phonetic phrase="reprint labels" substitution="레이블 다시 인쇄" display="레이블 다시 인쇄" locale="ko_KR" />
+    <phonetic phrase="reprint labels" substitution="etiketten opnieuw afdrukken" display="etiketten opnieuw afdrukken" locale="nl_NL" />
+    <phonetic phrase="reprint labels" substitution="reimprimir rótulos" display="reimprimir rótulos" locale="pt_BR" />
+    <phonetic phrase="reprint labels" substitution="skriv ut etiketter igen" display="skriv ut etiketter igen" locale="sv_SE" />
+    <phonetic phrase="reprint labels" substitution="重新打印标签" display="重新打印标签" locale="zh_CN" />
+    <phonetic phrase="reprint report" substitution="udskriv rapport igen" display="udskriv rapport igen" locale="da_DK" />
+    <phonetic phrase="reprint report" substitution="volver a imprimir informe" display="volver a imprimir informe" locale="es_MX" />
+    <phonetic phrase="reprint report" substitution="tulosta raportti uudelleen" display="tulosta raportti uudelleen" locale="fi_FI" />
+    <phonetic phrase="reprint report" substitution="réimprimer le rapport" display="réimprimer le rapport" locale="fr_CA" />
+    <phonetic phrase="reprint report" substitution="réimprimer le rapport" display="réimprimer le rapport" locale="fr_FR" />
+    <phonetic phrase="reprint report" substitution="レポートの再印刷" display="レポートの再印刷" locale="ja_JP" />
+    <phonetic phrase="reprint report" substitution="보고서 다시 인쇄" display="보고서 다시 인쇄" locale="ko_KR" />
+    <phonetic phrase="reprint report" substitution="rapport opnieuw afdrukken" display="rapport opnieuw afdrukken" locale="nl_NL" />
+    <phonetic phrase="reprint report" substitution="reimprimir relatório" display="reimprimir relatório" locale="pt_BR" />
+    <phonetic phrase="reprint report" substitution="skriv ut rapport på nytt" display="skriv ut rapport på nytt" locale="sv_SE" />
+    <phonetic phrase="reprint report" substitution="重新打印报告" display="重新打印报告" locale="zh_CN" />
+    <phonetic phrase="review cluster" substitution="gennemgå klynge" display="gennemgå klynge" locale="da_DK" />
+    <phonetic phrase="review cluster" substitution="revisar grupo" display="revisar grupo" locale="es_MX" />
+    <phonetic phrase="review cluster" substitution="tarkista ryhmä" display="tarkista ryhmä" locale="fi_FI" />
+    <phonetic phrase="review cluster" substitution="revoir le groupe" display="revoir le groupe" locale="fr_CA" />
+    <phonetic phrase="review cluster" substitution="revoir le groupe" display="revoir le groupe" locale="fr_FR" />
+    <phonetic phrase="review cluster" substitution="クラスタの確認" display="クラスタの確認" locale="ja_JP" />
+    <phonetic phrase="review cluster" substitution="적재량 확인" display="적재량 확인" locale="ko_KR" />
+    <phonetic phrase="review cluster" substitution="cluster controleren" display="cluster controleren" locale="nl_NL" />
+    <phonetic phrase="review cluster" substitution="revisar grupo" display="revisar grupo" locale="pt_BR" />
+    <phonetic phrase="review cluster" substitution="granska kluster" display="granska kluster" locale="sv_SE" />
+    <phonetic phrase="review cluster" substitution="查看群集" display="查看群集" locale="zh_CN" />
+    <phonetic phrase="review containers" substitution="gennemgå beholdere" display="gennemgå beholdere" locale="da_DK" />
+    <phonetic phrase="review containers" substitution="revisar contenido" display="revisar contenido" locale="es_MX" />
+    <phonetic phrase="review containers" substitution="tarkista säiliöt" display="tarkista säiliöt" locale="fi_FI" />
+    <phonetic phrase="review containers" substitution="revoir les bacs" display="revoir les bacs" locale="fr_CA" />
+    <phonetic phrase="review containers" substitution="revoir les bacs" display="revoir les bacs" locale="fr_FR" />
+    <phonetic phrase="review containers" substitution="容器の確認" display="容器の確認" locale="ja_JP" />
+    <phonetic phrase="review containers" substitution="컨테이너 검토" display="컨테이너 검토" locale="ko_KR" />
+    <phonetic phrase="review containers" substitution="containers bekijken" display="containers bekijken" locale="nl_NL" />
+    <phonetic phrase="review containers" substitution="revisar contêineres" display="revisar contêineres" locale="pt_BR" />
+    <phonetic phrase="review containers" substitution="granska behållare" display="granska behållare" locale="sv_SE" />
+    <phonetic phrase="review containers" substitution="查看容器" display="查看容器" locale="zh_CN" />
+    <phonetic phrase="review contents" substitution="gennemgå indhold" display="gennemgå indhold" locale="da_DK" />
+    <phonetic phrase="review contents" substitution="revisar contenido" display="revisar contenido" locale="es_MX" />
+    <phonetic phrase="review contents" substitution="tarkista sisältö" display="tarkista sisältö" locale="fi_FI" />
+    <phonetic phrase="review contents" substitution="revoir le contenu" display="revoir le contenu" locale="fr_CA" />
+    <phonetic phrase="review contents" substitution="revoir le contenu" display="revoir le contenu" locale="fr_FR" />
+    <phonetic phrase="review contents" substitution="中身の確認" display="中身の確認" locale="ja_JP" />
+    <phonetic phrase="review contents" substitution="내용물 확인" display="내용물 확인" locale="ko_KR" />
+    <phonetic phrase="review contents" substitution="inhoud controleren" display="inhoud controleren" locale="nl_NL" />
+    <phonetic phrase="review contents" substitution="revisar conteúdo" display="revisar conteúdo" locale="pt_BR" />
+    <phonetic phrase="review contents" substitution="granska innehåll" display="granska innehåll" locale="sv_SE" />
+    <phonetic phrase="review contents" substitution="查看内容" display="查看内容" locale="zh_CN" />
+    <phonetic phrase="review last entry" substitution="Revoir dernière saisie" display="Revoir dernière saisie" locale="fr_CA" />
+    <phonetic phrase="review last" substitution="gennemgå sidste" display="gennemgå sidste" locale="da_DK" />
+    <phonetic phrase="review last" substitution="revisar último" display="revisar último" locale="es_MX" />
+    <phonetic phrase="review last" substitution="tarkista viimeinen" display="tarkista viimeinen" locale="fi_FI" />
+    <phonetic phrase="review last" substitution="revoir dernier" display="revoir dernier" locale="fr_FR" />
+    <phonetic phrase="review last" substitution="最終を確認" display="最終を確認" locale="ja_JP" />
+    <phonetic phrase="review last" substitution="마지막 항목 검토" display="마지막 항목 검토" locale="ko_KR" />
+    <phonetic phrase="review last" substitution="laatste bekijken" display="laatste bekijken" locale="nl_NL" />
+    <phonetic phrase="review last" substitution="revisar último" display="revisar último" locale="pt_BR" />
+    <phonetic phrase="review last" substitution="granska senaste" display="granska senaste" locale="sv_SE" />
+    <phonetic phrase="review last" substitution="查看最后一个" display="查看最后一个" locale="zh_CN" />
+    <phonetic phrase="right" substitution="højre" display="højre" locale="da_DK" />
+    <phonetic phrase="right" substitution="derecha" display="derecha" locale="es_MX" />
+    <phonetic phrase="right" substitution="oikea" display="oikea" locale="fi_FI" />
+    <phonetic phrase="right" substitution="droite" display="droite" locale="fr_CA" />
+    <phonetic phrase="right" substitution="droite" display="droite" locale="fr_FR" />
+    <phonetic phrase="right" substitution="右" display="右" locale="ja_JP" />
+    <phonetic phrase="right" substitution="오른쪽" display="오른쪽" locale="ko_KR" />
+    <phonetic phrase="right" substitution="rechts" display="rechts" locale="nl_NL" />
+    <phonetic phrase="right" substitution="direita" display="direita" locale="pt_BR" />
+    <phonetic phrase="right" substitution="höger" display="höger" locale="sv_SE" />
+    <phonetic phrase="right" substitution="右" display="右" locale="zh_CN" />
+    <phonetic phrase="route number" substitution="rutenummer" display="rutenummer" locale="da_DK" />
+    <phonetic phrase="route number" substitution="número de ruta" display="número de ruta" locale="es_MX" />
+    <phonetic phrase="route number" substitution="reittinumero" display="reittinumero" locale="fi_FI" />
+    <phonetic phrase="route number" substitution="numéro de route" display="numero de route" locale="fr_CA" />
+    <phonetic phrase="route number" substitution="numéro de route" display="numero de route" locale="fr_FR" />
+    <phonetic phrase="route number" substitution="ルート番号" display="ルート番号" locale="ja_JP" />
+    <phonetic phrase="route number" substitution="경로 번호" display="경로 번호" locale="ko_KR" />
+    <phonetic phrase="route number" substitution="routenummer" display="routenummer" locale="nl_NL" />
+    <phonetic phrase="route number" substitution="número da rota" display="número da rota" locale="pt_BR" />
+    <phonetic phrase="route number" substitution="flödesnummer" display="flödesnummer" locale="sv_SE" />
+    <phonetic phrase="route number" substitution="路线编号" display="路线编号" locale="zh_CN" />
+    <phonetic phrase="route" substitution="rute" display="rute" locale="da_DK" />
+    <phonetic phrase="route" substitution="ruta" display="ruta" locale="es_MX" />
+    <phonetic phrase="route" substitution="reitti" display="reitti" locale="fi_FI" />
+    <phonetic phrase="route" substitution="trajet" display="trajet" locale="fr_CA" />
+    <phonetic phrase="route" substitution="trajet" display="trajet" locale="fr_FR" />
+    <phonetic phrase="route" substitution="ルート" display="ルート" locale="ja_JP" />
+    <phonetic phrase="route" substitution="경로" display="경로" locale="ko_KR" />
+    <phonetic phrase="route" substitution="rota" display="rota" locale="pt_BR" />
+    <phonetic phrase="route" substitution="flöde" display="flöde" locale="sv_SE" />
+    <phonetic phrase="route" substitution="路线" display="路线" locale="zh_CN" />
+    <phonetic phrase="say again" substitution="dites de nouveau" display="dites de nouveau" locale="fr_CA" />
+    <phonetic phrase="select" substitution="vælg" display="vælg" locale="da_DK" />
+    <phonetic phrase="select" substitution="seleccionar" display="seleccionar" locale="es_MX" />
+    <phonetic phrase="select" substitution="valitse" display="valitse" locale="fi_FI" />
+    <phonetic phrase="select" substitution="sélectionner" display="sélectionner" locale="fr_FR" />
+    <phonetic phrase="select" substitution="品揃え" display="品揃え" locale="ja_JP" />
+    <phonetic phrase="select" substitution="선택" display="선택" locale="ko_KR" />
+    <phonetic phrase="select" substitution="selecteren" display="selecteren" locale="nl_NL" />
+    <phonetic phrase="select" substitution="selecionar" display="selecionar" locale="pt_BR" />
+    <phonetic phrase="select" substitution="markera" display="markera" locale="sv_SE" />
+    <phonetic phrase="select" substitution="选择" display="选择" locale="zh_CN" />
+    <phonetic phrase="short product" substitution="manglende produkt" display="manglende produkt" locale="da_DK" />
+    <phonetic phrase="short product" substitution="producto faltante" display="producto faltante" locale="es_MX" />
+    <phonetic phrase="short product" substitution="vajaa tuote" display="vajaa tuote" locale="fi_FI" />
+    <phonetic phrase="short product" substitution="produit raccourci" display="produit raccourci" locale="fr_CA" />
+    <phonetic phrase="short product" substitution="produit raccourci" display="produit raccourci" locale="fr_FR" />
+    <phonetic phrase="short product" substitution="数量不足" display="数量不足" locale="ja_JP" />
+    <phonetic phrase="short product" substitution="제품 부족" display="제품 부족" locale="ko_KR" />
+    <phonetic phrase="short product" substitution="product is op" display="product is op" locale="nl_NL" />
+    <phonetic phrase="short product" substitution="produto em falta" display="produto em falta" locale="pt_BR" />
+    <phonetic phrase="short product" substitution="kort artikel" display="kort artikel" locale="sv_SE" />
+    <phonetic phrase="short product" substitution="短缺产品" display="短缺产品" locale="zh_CN" />
+    <phonetic phrase="sign off" substitution="meld af" display="meld af" locale="da_DK" />
+    <phonetic phrase="sign off" substitution="cerrar sesión" display="cerrar sesión" locale="es_MX" />
+    <phonetic phrase="sign off" substitution="kirjaa ulos" display="kirjaa ulos" locale="fi_FI" />
+    <phonetic phrase="sign off" substitution="fin de session" display="fin de session" locale="fr_CA" />
+    <phonetic phrase="sign off" substitution="fin de session" display="fin de session" locale="fr_FR" />
+    <phonetic phrase="sign off" substitution="サインオフ" display="サインオフ" locale="ja_JP" />
+    <phonetic phrase="sign off" substitution="로그아웃" display="로그아웃" locale="ko_KR" />
+    <phonetic phrase="sign off" substitution="afmelden" display="afmelden" locale="nl_NL" />
+    <phonetic phrase="sign off" substitution="sair do sistema" display="sair do sistema" locale="pt_BR" />
+    <phonetic phrase="sign off" substitution="logga ut" display="logga ut" locale="sv_SE" />
+    <phonetic phrase="sign off" substitution="注销" display="注销" locale="zh_CN" />
+    <phonetic phrase="skip aisle" substitution="ignorer gang" display="ignorer gang" locale="da_DK" />
+    <phonetic phrase="skip aisle" substitution="omitir pasillo" display="omitir pasillo" locale="es_MX" />
+    <phonetic phrase="skip aisle" substitution="jätä käytävä väliin" display="jätä käytävä väliin" locale="fi_FI" />
+    <phonetic phrase="skip aisle" substitution="sauter l'allée" display="sauter l'allee" locale="fr_CA" />
+    <phonetic phrase="skip aisle" substitution="sauter l'allée" display="sauter l'allee" locale="fr_FR" />
+    <phonetic phrase="skip aisle" substitution="通路のスキップ" display="通路のスキップ" locale="ja_JP" />
+    <phonetic phrase="skip aisle" substitution="통로 통과" display="통로 통과" locale="ko_KR" />
+    <phonetic phrase="skip aisle" substitution="gang overslaan" display="gang overslaan" locale="nl_NL" />
+    <phonetic phrase="skip aisle" substitution="pular corredor" display="pular corredor" locale="pt_BR" />
+    <phonetic phrase="skip aisle" substitution="hoppa över gång" display="hoppa över gång" locale="sv_SE" />
+    <phonetic phrase="skip aisle" substitution="跳过通道" display="跳过通道" locale="zh_CN" />
+    <phonetic phrase="skip carton" substitution="spring karton over" display="spring karton over" locale="da_DK" />
+    <phonetic phrase="skip carton" substitution="omitir caja de cartón" display="omitir caja de cartón" locale="es_MX" />
+    <phonetic phrase="skip carton" substitution="ohita keräyslaatikko" display="ohita keräyslaatikko" locale="fi_FI" />
+    <phonetic phrase="skip carton" substitution="omettre une caisse" display="omettre une caisse" locale="fr_CA" />
+    <phonetic phrase="skip carton" substitution="omettre une caisse" display="omettre une caisse" locale="fr_FR" />
+    <phonetic phrase="skip carton" substitution="カートンのスキップ" display="カートンのスキップ" locale="ja_JP" />
+    <phonetic phrase="skip carton" substitution="상자 무시" display="상자 무시" locale="ko_KR" />
+    <phonetic phrase="skip carton" substitution="doos overslaan" display="doos overslaan" locale="nl_NL" />
+    <phonetic phrase="skip carton" substitution="omitir caixa" display="omitir caixa" locale="pt_BR" />
+    <phonetic phrase="skip carton" substitution="hoppa över kartong" display="hoppa över kartong" locale="sv_SE" />
+    <phonetic phrase="skip carton" substitution="跳过纸箱" display="跳过纸箱" locale="zh_CN" />
+    <phonetic phrase="skip slot" substitution="ignorer plads" display="ignorer plads" locale="da_DK" />
+    <phonetic phrase="skip slot" substitution="omitir sección" display="omitir sección" locale="es_MX" />
+    <phonetic phrase="skip slot" substitution="jätä hyllypaikka väliin" display="jätä hyllypaikka väliin" locale="fi_FI" />
+    <phonetic phrase="skip slot" substitution="sauter la tranche" display="sauter la tranche" locale="fr_CA" />
+    <phonetic phrase="skip slot" substitution="sauter la tranche" display="sauter la tranche" locale="fr_FR" />
+    <phonetic phrase="skip slot" substitution="棚のスキップ" display="棚のスキップ" locale="ja_JP" />
+    <phonetic phrase="skip slot" substitution="슬롯 통과" display="슬롯 통과" locale="ko_KR" />
+    <phonetic phrase="skip slot" substitution="vak overslaan" display="vak overslaan" locale="nl_NL" />
+    <phonetic phrase="skip slot" substitution="pular posição" display="pular posição" locale="pt_BR" />
+    <phonetic phrase="skip slot" substitution="hoppa över plats" display="hoppa över plats" locale="sv_SE" />
+    <phonetic phrase="skip slot" substitution="跳过插槽" display="跳过插槽" locale="zh_CN" />
+    <phonetic phrase="sleep" substitution="veille" display="veille" locale="fr_CA" />
+    <phonetic phrase="softer" substitution="plus doux" display="plus doux" locale="fr_CA" />
+    <phonetic phrase="spur" substitution="spor" display="spor" locale="da_DK" />
+    <phonetic phrase="spur" substitution="ramal" display="ramal" locale="es_MX" />
+    <phonetic phrase="spur" substitution="kuljetinhaara" display="kuljetinhaara" locale="fi_FI" />
+    <phonetic phrase="spur" substitution="Voie de dérivation en cul de sac" display="Voie de dérivation en cul de sac" locale="fr_CA" />
+    <phonetic phrase="spur" substitution="Voie de dérivation en cul de sac" display="Voie de dérivation en cul de sac" locale="fr_FR" />
+    <phonetic phrase="spur" substitution="シュート" display="シュート" locale="ja_JP" />
+    <phonetic phrase="spur" substitution="말단 지점" display="말단 지점" locale="ko_KR" />
+    <phonetic phrase="spur" substitution="spoor" display="spoor" locale="nl_NL" />
+    <phonetic phrase="spur" substitution="bico" display="bico" locale="pt_BR" />
+    <phonetic phrase="spur" substitution="utlöpare" display="utlöpare" locale="sv_SE" />
+    <phonetic phrase="spur" substitution="支线" display="支线" locale="zh_CN" />
+    <phonetic phrase="stop" substitution="stop" display="stop" locale="da_DK" />
+    <phonetic phrase="stop" substitution="detener" display="detener" locale="es_MX" />
+    <phonetic phrase="stop" substitution="lopeta" display="lopeta" locale="fi_FI" />
+    <phonetic phrase="stop" substitution="arrêt" display="arret" locale="fr_CA" />
+    <phonetic phrase="stop" substitution="arrêt" display="arret" locale="fr_FR" />
+    <phonetic phrase="stop" substitution="停止" display="停止" locale="ja_JP" />
+    <phonetic phrase="stop" substitution="중지" display="중지" locale="ko_KR" />
+    <phonetic phrase="stop" substitution="stoppen" display="stoppen" locale="nl_NL" />
+    <phonetic phrase="stop" substitution="parar" display="parar" locale="pt_BR" />
+    <phonetic phrase="stop" substitution="stopp" display="stopp" locale="sv_SE" />
+    <phonetic phrase="stop" substitution="站点" display="站点" locale="zh_CN" />
+    <phonetic phrase="store number" substitution="gem nummer" display="gem nummer" locale="da_DK" />
+    <phonetic phrase="store number" substitution="almacenar número" display="almacenar número" locale="es_MX" />
+    <phonetic phrase="store number" substitution="tallenna numero" display="tallenna numero" locale="fi_FI" />
+    <phonetic phrase="store number" substitution="numéro de magasin" display="numero de magasin" locale="fr_CA" />
+    <phonetic phrase="store number" substitution="numéro de magasin" display="numero de magasin" locale="fr_FR" />
+    <phonetic phrase="store number" substitution="顧客番号" display="顧客番号" locale="ja_JP" />
+    <phonetic phrase="store number" substitution="보관 번호" display="보관 번호" locale="ko_KR" />
+    <phonetic phrase="store number" substitution="opslagnummer" display="opslagnummer" locale="nl_NL" />
+    <phonetic phrase="store number" substitution="número da loja" display="número da loja" locale="pt_BR" />
+    <phonetic phrase="store number" substitution="lagernummer" display="lagernummer" locale="sv_SE" />
+    <phonetic phrase="store number" substitution="存储编号" display="存储编号" locale="zh_CN" />
+    <phonetic phrase="suspend base summary" substitution="suspendre le résumé de la base" display="suspendre le resume de la base" locale="fr_CA" />
+    <phonetic phrase="take a break" substitution="hold pause" display="hold pause" locale="da_DK" />
+    <phonetic phrase="take a break" substitution="quiero descansar" display="quiero descansar" locale="es_MX" />
+    <phonetic phrase="take a break" substitution="pidä tauko" display="pidä tauko" locale="fi_FI" />
+    <phonetic phrase="take a break" substitution="faire une pause" display="faire une pause" locale="fr_CA" />
+    <phonetic phrase="take a break" substitution="faire une pause" display="faire une pause" locale="fr_FR" />
+    <phonetic phrase="take a break" substitution="休憩" display="休憩" locale="ja_JP" />
+    <phonetic phrase="take a break" substitution="휴식" display="휴식" locale="ko_KR" />
+    <phonetic phrase="take a break" substitution="de handeling onderbreken" display="de handeling onderbreken" locale="nl_NL" />
+    <phonetic phrase="take a break" substitution="intervalo" display="intervalo" locale="pt_BR" />
+    <phonetic phrase="take a break" substitution="gör ett avbrott" display="take a break" locale="sv_SE" />
+    <phonetic phrase="take a break" substitution="中断" display="中断" locale="zh_CN" />
+    <phonetic phrase="undo entry" substitution="fortryd indgang" display="fortryd indgang" locale="da_DK" />
+    <phonetic phrase="undo entry" substitution="deshacer entrada" display="deshacer entrada" locale="es_MX" />
+    <phonetic phrase="undo entry" substitution="kumoa syöttötieto" display="kumoa syöttötieto" locale="fi_FI" />
+    <phonetic phrase="undo entry" substitution="Annuler saisie" display="Annuler saisie" locale="fr_CA" />
+    <phonetic phrase="undo entry" substitution="Annuler saisie" display="Annuler saisie" locale="fr_FR" />
+    <phonetic phrase="undo entry" substitution="入力をやり直す" display="入力をやり直す" locale="ja_JP" />
+    <phonetic phrase="undo entry" substitution="입력 취소" display="입력 취소" locale="ko_KR" />
+    <phonetic phrase="undo entry" substitution="invoer ongedaan maken" display="invoer ongedaan maken" locale="nl_NL" />
+    <phonetic phrase="undo entry" substitution="anular entrada" display="anular entrada" locale="pt_BR" />
+    <phonetic phrase="undo entry" substitution="ångra post" display="ångra post" locale="sv_SE" />
+    <phonetic phrase="undo entry" substitution="撤销输入" display="撤销输入" locale="zh_CN" />
+    <phonetic phrase="unload container" substitution="aflæs container" display="aflæs container" locale="da_DK" />
+    <phonetic phrase="unload container" substitution="unload container" display="unload container" locale="en_US" />
+    <phonetic phrase="unload container" substitution="descargar contenedor" display="descargar contenedor" locale="es_MX" />
+    <phonetic phrase="unload container" substitution="pura säiliö" display="pura säiliö" locale="fi_FI" />
+    <phonetic phrase="unload container" substitution="Décharger le contenant" display="Décharger le contenant" locale="fr_CA" />
+    <phonetic phrase="unload container" substitution="Décharger le contenant" display="Décharger le contenant" locale="fr_FR" />
+    <phonetic phrase="unload container" substitution="容器の積み下ろし" display="容器の積み下ろし" locale="ja_JP" />
+    <phonetic phrase="unload container" substitution="컨테이너 하역" display="컨테이너 하역" locale="ko_KR" />
+    <phonetic phrase="unload container" substitution="container lossen" display="container lossen" locale="nl_NL" />
+    <phonetic phrase="unload container" substitution="descarregar contêiner" display="descarregar contêiner" locale="pt_BR" />
+    <phonetic phrase="unload container" substitution="lossa container" display="lossa container" locale="sv_SE" />
+    <phonetic phrase="unload container" substitution="卸载集装箱" display="卸载集装箱" locale="zh_CN" />
+    <phonetic phrase="unload license" substitution="licens til aflæsning" display="licens til aflæsning" locale="da_DK" />
+    <phonetic phrase="unload license" substitution="licencia de descarga" display="licencia de descarga" locale="es_MX" />
+    <phonetic phrase="unload license" substitution="kuorman purun tunniste" display="kuorman purun tunniste" locale="fi_FI" />
+    <phonetic phrase="unload license" substitution="décharger l'identification" display="décharger l'identification" locale="fr_CA" />
+    <phonetic phrase="unload license" substitution="décharger l'identification" display="décharger l'identification" locale="fr_FR" />
+    <phonetic phrase="unload license" substitution="棚入れ番号の積み込み解除" display="棚入れ番号の積み込み解除" locale="ja_JP" />
+    <phonetic phrase="unload license" substitution="하역 라이센스" display="하역 라이센스" locale="ko_KR" />
+    <phonetic phrase="unload license" substitution="licentie voor lossen" display="licentie voor lossen" locale="nl_NL" />
+    <phonetic phrase="unload license" substitution="descarregar licença" display="descarregar licença" locale="pt_BR" />
+    <phonetic phrase="unload license" substitution="ta bort licens" display="ta bort licens" locale="sv_SE" />
+    <phonetic phrase="unload license" substitution="卸载许可证" display="卸载许可证" locale="zh_CN" />
+    <phonetic phrase="wakeup" substitution="activation, activer" display="activation, activer" locale="fr_CA" />
+    <phonetic phrase="which item" substitution="hvilken vare" display="hvilken vare" locale="da_DK" />
+    <phonetic phrase="which item" substitution="qué artículo" display="qué artículo" locale="es_MX" />
+    <phonetic phrase="which item" substitution="mikä nimike" display="mikä nimike" locale="fi_FI" />
+    <phonetic phrase="which item" substitution="quel article" display="quel article" locale="fr_CA" />
+    <phonetic phrase="which item" substitution="quel article" display="quel article" locale="fr_FR" />
+    <phonetic phrase="which item" substitution="商品の確認" display="商品の確認" locale="ja_JP" />
+    <phonetic phrase="which item" substitution="어떤 항목" display="어떤 항목" locale="ko_KR" />
+    <phonetic phrase="which item" substitution="welk item" display="welk item" locale="nl_NL" />
+    <phonetic phrase="which item" substitution="qual item" display="qual item" locale="pt_BR" />
+    <phonetic phrase="which item" substitution="vilken artikel" display="vilken artikel" locale="sv_SE" />
+    <phonetic phrase="which item" substitution="哪一个物件" display="哪一个物件" locale="zh_CN" />
+    <phonetic phrase="yes" substitution="ja" display="ja" locale="da_DK" />
+    <phonetic phrase="yes" substitution="Sí" display="Sí" locale="es_MX" />
+    <phonetic phrase="yes" substitution="kyllä" display="kyllä" locale="fi_FI" />
+    <phonetic phrase="yes" substitution="oui" display="oui" locale="fr_CA" />
+    <phonetic phrase="yes" substitution="oui" display="oui" locale="fr_FR" />
+    <phonetic phrase="yes" substitution="はい" display="はい" locale="ja_JP" />
+    <phonetic phrase="yes" substitution="예" display="예" locale="ko_KR" />
+    <phonetic phrase="yes" substitution="ja" display="ja" locale="nl_NL" />
+    <phonetic phrase="yes" substitution="sim" display="sim" locale="pt_BR" />
+    <phonetic phrase="yes" substitution="ja" display="ja" locale="sv_SE" />
+    <phonetic phrase="yes" substitution="是" display="是" locale="zh_CN" />
+    <phonetic phrase="~" substitution="tilda" display="~" locale="en_AU" />
+    <phonetic phrase="~" substitution="tilda" display="~" locale="en_GB" />
+    <phonetic phrase="~" substitution="tilda" display="~" locale="fr_CA" />
+  </phoneticSubstitutions>
+  <properties>
+    <property name="applicationURI" value="/VocollectTask1.0/" type="String" editable="true" />
+    <property name="useHTTPServer" value="false" type="Boolean" editable="true" />
+    <property name="httpServerPort" value="80" type="Integer" editable="true" />
+    <property name="sendUDPBroadcast" value="false" type="Boolean" editable="true" />
+    <property name="TaskRevision" value="CT-43-03-001" type="String" editable="false" />
+    <property name="LUTHost" value="127.0.0.1" type="String" editable="true" />
+    <property name="LUTPort" value="15004" type="Integer" editable="true" />
+    <property name="ODRHost" value="127.0.0.1" type="String" editable="true" />
+    <property name="ODRPort" value="15005" type="Integer" editable="true" />
+    <property name="imageHost" value="http://YOUR-IMAGE-SERVER-HERE/" type="String" editable="true" />
+    <property name="SaveState" value="false" type="Boolean" editable="true" />
+    <property name="SiteName" value="Default" type="String" editable="true" />
+    <property name="CollectVehicleInfo" value="true" type="Boolean" editable="true" />
+    <property name="UseTriggerScanVocab" value="true" type="Boolean" editable="true" />
+    <property name="TriggerScanTimeout" value="5" type="Integer" editable="true" />
+  </properties>
+  <deviceSettings>
+    <property name="BarcodePort" value="blue" />
+    <property name="Event_Poweroff_Timeout" value="24" />
+    <property name="RestartTask" value="1" />
+    <property name="SpeechWaitSecs" value="300" />
+    <property name="TrainDevicePort" value="red" />
+    <property name="disableControlFunction_BATTERY_STATUS" value="0" />
+  </deviceSettings>
+  <rnpFiles />
+</voiceApplicationConfig>
+

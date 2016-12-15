@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="VoiceLinkTraining" basedir="." default="build.release">
+
+	<!-- TODO:  
+		The eclipse.root property value must be the full path to where eclipse.exe resides
+		such as:  C:\developement\eclipse
+
+		so uncomment the property statement below and provide the path to your eclipse
+
+	<property name="eclipse.root" value="path\to\eclipse\here"/>
+
+	-->
+
+	<!-- WORKSPACE SUGGESTION:  
+		The eclipse launcher supports being supplied a workspace directory
+		via the -data parameter.
+		We recommend that you add another property to reference a temporary
+		workspace directory that does not house any projects.
+		Do this by uncommenting the following statement
+		 and providing a valid directory path:
+
+	<property name="workspace.dir" value="path\to\temporary\workspace\here"/>
+
+		Then supply this to the eclipse launcher by adding the
+		following two lines BEFORE the -application parameter
+
+		<arg value="-data"/>
+		<arg value="${workspace.dir}"/>
+	-->
+
+	<!-- Headless VAD Export of VoiceLinkTraining
+	Generates vad in the \export folder -->
+	<target name="build.release">
+
+		<fail unless="eclipse.root">eclipse.root has not been set
+		</fail>
+
+		<!-- WORKSPACE SUGGESTION:  
+		If you are using the -data parameter, you should make sure the temporary
+		workspace directory does not exist - often when this target fails, the
+		workspace is left in a state with open projects which will cause a
+		subsequent execution to fail.
+		To prevent this, uncomment the following statement:
+
+		<delete dir="${workspace.dir}"/>
+		-->
+		<path id="newest.equinox.launcher.path.id">
+			<first count="1">
+				<sort>
+					<fileset dir="${eclipse.root}/plugins" includes="**/org.eclipse.equinox.launcher_*.jar"/>
+					<reverse xmlns="antlib:org.apache.tools.ant.types.resources.comparators">
+						<date/>
+					</reverse>
+				</sort>
+			</first>
+		</path>
+		<property name="equinox.launcher.jar.location" refid="newest.equinox.launcher.path.id"/>
+		<!-- NOTE:  
+		The exec os ant target invoked here is a basic VoiceApplication HeadlessBuild
+		HeadlessBuild does support encrypted builds as well simply by providing
+		<arg value="-encrypted"/>
+		before the closing exec statement
+		-->
+		<exec os="Windows 7,Windows XP,Windows Vista,Windows 2003,Linux"
+			executable="java" failonerror="true">
+			<arg value="-jar" />
+			<arg value="${equinox.launcher.jar.location}"/>
+<!--			<arg value="-data"/>
+			<arg value="${workspace.dir}"/>    -->
+			<arg value="-application" />
+			<arg value="com.vocollect.voiceartisan.tools.HeadlessBuild" />
+			<arg value="-project"/>
+			<arg value="C:\temp\workspaces\temp\VoiceLinkTraining"/>
+		</exec>
+	</target>
+</project>
+

@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testData>
+    <requestSettings endOfRecordSet="\r\n\n"/>
+   <responseQueue>
+   
+       <!-- Core LUT Responses -->
+       <response  name="Core: Configuration" endOfRecord="\n" expression="prTaskLUTCoreConfiguration.*">
+          <record data= "Vocollect,Operator.Id,0,0,"/> 
+       </response>
+       <response  name="Core: Break Types" endOfRecord="\n" expression="prTaskLUTCoreBreakTypes.*">
+          <record data= "1,lunch,0,"/>
+          <record data= "2,battery,0,"/> 
+      </response>
+      <response  name="Core: Sign On - Pass (Requires password of 123)" endOfRecord="\n" expression="prTaskLUTCoreSignOn.*'123'.*">
+          <record data= "0,0,"/>
+      </response>
+      <response  name="Core: Sign On - Fail" endOfRecord="\n" expression="prTaskLUTCoreSignOn.*">
+          <record data= "0,1,in valid password"/>
+      </response>
+      <response  name="Core: Sign Off" endOfRecord="\n" expression="prTaskLUTCoreSignOff.*">
+          <record data= "0,"/>
+      </response>
+
+      <response  name="Core: Valid Vehicle Types" endOfRecord="\n" expression="prTaskLUTCoreValidVehicleTypes.*">
+          <record data= ",,0,0,"/>
+      </response>
+      
+      <response  name="Core: Valid Vehicle Types" endOfRecord="\n" expression="prTaskLUTCoreValidVehicleTypes.*">
+          <record data= "1,fork lift,0,0,"/>
+          <record data= "2,pallet jack,1,0,"/>
+      </response>
+      <response  name="Core: Send Vehicle IDs - Forklift" endOfRecord="\n" expression="prTaskLUTCoreSendVehicleIDs.*'1'.*">
+          <record data= "brakes,B,0,"/>
+          <record data= "tires,B,0,"/>
+          <record data= "mirrors,B,0,"/>
+          <record data= "lights,B,0,"/>
+          <record data= "Number of Miles,N,0,"/>
+      </response>
+      <response  name="Core: Send Vehicle IDs - All others" endOfRecord="\n" expression="prTaskLUTCoreSendVehicleIDs.*">
+          <record data= ",0,"/>
+      </response>
+      <response  name="Core: Safety Check" endOfRecord="\n" expression="prTaskLUTCoreSafetyCheck.*">
+          <record data= "0,"/>
+      </response>
+      <response  name="Core: Valid Functions" endOfRecord="\n" expression="prTaskLUTCoreValidFunctions.*">
+          <record data= "1,put away,0,"/>
+          <record data= "2,replenishment,0,"/>
+          <record data= "3,normal assignments,0,"/>
+          <record data= "4,chase assignments,0,"/>
+          <record data= "6,normal and chase assignments,0,"/>
+          <record data= "7,line loading,0,"/>
+          <record data= "8,put to store,0,"/>
+          <record data= "9,cycle counting,0,"/>
+          <record data= "10,loading,0,"/>
+          <record data= "11,back stocking,0,"/>
+          <record data= "12,receiving,0,"/>
+      </response>
+   
+      <response  name="Core: Verify Location - error" endOfRecord="\n" expression="prTaskLUTCoreVerifyLocation.*'AAAAA'.*">
+          <record data= ",1,invalid location"/>
+      </response>
+      <response  name="Core: Verify Location" endOfRecord="\n" expression="prTaskLUTCoreVerifyLocation.*">
+          <record data= "locID,0,"/>
+      </response>
+   
+      <response name="Core: Reason Codes" endOfRecord="\n" expression="prTaskLUTCoreGetReasonCodes.*">
+          <record data= "1,Short,0,"/>
+          <record data= "2,Overage,0,"/>
+          <record data= "3,Damage,0,"/>
+      </response>
+      
+   
+      <!-- Back stocking LUT Responses -->
+      <response  name="Back Stocking: Valid Regions" endOfRecord="\n" expression="prTaskLUTStockingValidRegions.*">
+          <record data= "1,back stocking region 1,0,"/>
+          <record data= "2,back stocking region 2,0,"/>
+          <record data= "3,back stocking region 3,0,"/>
+      </response>
+      <response  name="Back Stocking: Region Configurations" endOfRecord="\n" expression="prTaskLUTStockingGetRegionConfiguration.*">
+          <record data= "1,back stocking region 1,pre,aisle,post,0,1,1,0,1,1,0,"/>
+      </response>
+
+      <response  name="Back Stocking: Induct LPN" endOfRecord="\n" expression="prTaskLUTStockingGetLPN.*">
+          <record data= "staging area,,12345SCAN,0,"/>
+      </response>
+      <response  name="Back Stocking: Validate LPN" endOfRecord="\n" expression="prTaskLUTStockingValidateLPN.*">
+          <record data= "N,12345SCAN,12345,13,0,ITEM1,UCN,UPC,Description,0,0,11111,0,U1,prep message,0,"/>
+          <record data= "N,12346SCAN,12346,13,0,ITEM1,UCN,UPC,Description,0,0,22222,0,U1,prep message,0,"/>
+          <record data= "N,12347SCAN,12347,13,0,ITEM1,UCN,UPC,Description,0,0,33333,0,U1,prep message,0,"/>
+      </response>
+      <response  name="Back Stocking: Get Trip" endOfRecord="\n" expression="prTaskLUTStockingGetTrip.*">
+          <record data= "1,1,trip summary,preformance summary,loc1,11111,N,pre 1,1,post 1,1,00,22222,222,1234,13,item1,description1,pack,UPC,UCN,stocker prep,drop zone,11,0,"/>
+          <record data= "2,2,trip summary,preformance summary,loc2,11111,N,pre 1,2,post 2,2,00,22222,222,1234,13,item2,description2,pack,UPC,UCN,stocker prep,drop zone,11,0,"/>
+          <record data= "3,3,trip summary,preformance summary,loc3,11111,N,pre 2,1,post 1,3,00,22222,222,1234,13,item3,description3,pack,UPC,UCN,stocker prep,drop zone,11,0,"/>
+          <record data= "4,4,trip summary,preformance summary,loc4,11111,N,pre 2,1,post 2,4,00,22222,222,1234,13,item4,description4,pack,UPC,UCN,stocker prep,drop zone,11,0,"/>
+          <record data= "5,5,trip summary,preformance summary,loc5,11111,N,pre 3,1,post 1,5,00,22222,222,1234,13,item5,description5,pack,UPC,UCN,stocker prep,drop zone,11,0,"/>
+          <record data= "6,6,trip summary,preformance summary,loc6,11111,N,pre 3,1,post 2,6,00,22222,222,1234,13,item6,description6,pack,UPC,UCN,stocker prep,drop zone,11,0,"/>
+      </response>
+
+      <!-- Receiving LUT Responses -->
+      <response  name="Receiving: Valid Regions" endOfRecord="\n" expression="prTaskLUTReceivingValidRegions.*">
+          <record data= "1,receiving region 1,0,"/>
+          <record data= "2,receiving region 2,0,"/>
+          <record data= "3,receiving region 3,0,"/>
+      </response>
+      <response  name="Receiving: Region Configurations" endOfRecord="\n" expression="prTaskLUTReceivingGetRegionConfiguration.*">
+          <record data= "1,receiving region 1,0,0,"/>
+      </response>
+      <response  name="Receiving: Valid PO - error" endOfRecord="\n" expression="prTaskLUTReceivingValidPO.*,'1234567'\)">
+          <record data= ",,,,,,,,,1,invalid purchase order"/>
+      </response>
+      <response  name="Receiving: Valid PO" endOfRecord="\n" expression="prTaskLUTReceivingValidPO.*,'456'\)">
+          <record data= "123,321,Charmin paper towels,10,0,,,0,Paper products,0,"/>
+          <record data= "124,421,Charmin toilet paper,15,0,,,0,,0,"/>
+          <record data= "125,521,Target brand napkins,4,0,,,0,,0,"/>
+      </response>
+      <response  name="Receiving: Valid PO" endOfRecord="\n" expression="prTaskLUTReceivingValidPO.*">
+          <record data= "234,432,Canned corn,10,0,,,0,Grocery with some seasonal items,0,"/>
+          <record data= "235,532,Canned green beans,5,0,,,0,,0,"/>
+          <record data= "236,632,Dove easter chocolates,2,0,,,0,,0,"/>
+          <record data= "237,732,Gatorade - orange,4,0,,,0,,0,"/>
+          <record data= "238,832,Gatorade - red,5,0,,,0,,0,"/>
+          <record data= "239,932,Gatorade - green,6,0,,,0,,0,"/>
+          <record data= "240,042,Gatorade - blue,8,0,,,0,,0,"/>
+          <record data= "241,142,Gatorade - pink,9,0,,,0,,0,"/>
+      </response>
+      <response  name="Receiving: Valid Item - end of PO" endOfRecord="\n" expression="prTaskLUTReceivingItemReceived.*'237','889','4'\)">
+          <record data= ",,1,PO is complete"/>
+      </response>
+      <response  name="Receiving: Valid Item" endOfRecord="\n" expression="prTaskLUTReceivingItemReceived.*">
+          <record data= "some item info,3,0,"/>
+      </response>
+      <response  name="Receiving: Print" endOfRecord="\n" expression="prTaskLutReceivingPrint.*">
+          <record data= "0,"/>
+      </response>
+      <response  name="Receiving: Print List" endOfRecord="\n" expression="prTaskLutReceivingListOfPrinters.*">
+          <record data= "Color dup Ricoh 2200,1,NW,0,"/>
+          <record data= "B W dup Ricoh 2100,2,NE,0,"/>
+          <record data= "B W single Ricoh 2200,3,S,0,"/>
+      </response>
+
+      <!-- Cycle Counting LUT Responses -->
+      <response  name="Cycle Counting: Valid Regions" endOfRecord="\n" expression="prTaskLUTCycleCountingRegions.*">
+          <record data= "1,cycle counting region 1,0,"/>
+          <record data= "2,cycle counting region 2,0,"/>
+          <record data= "3,cycle counting region 3,0,"/>
+      </response>
+      <response  name="Cycle Counting: Request Region" endOfRecord="\n" expression="prTaskLUTCycleCountingRegion.*">
+          <record data= "0,"/>
+      </response>
+      <response  name="Cycle Counting: Request Mode" endOfRecord="\n" expression="prTaskLUTCycleCountingMode.*">
+          <record data= "H,0,"/>
+      </response>
+      <response  name="Cycle Counting: Get Location" endOfRecord="\n" expression="prTaskLUTCycleCountingLocation.*">
+          <record data= "pre 1,1,post 1,S1,00,LocID,11,0,"/>
+      </response>
+      <response  name="Cycle Counting: Get Assignment" endOfRecord="\n" expression="prTaskLUTCycleCountingAssignment.*">
+          <record data= "A432 S012,,125,,101,00,11,Chocolate bunnies,Cases - Dry good,UPC 1,3,packs,K,10,5,chocolate_bunny.png,0,"/>
+          <record data= "A432 S011,,125,,104,00,11,Chocolate eggs,Eaches - Dry good,UPC 1,3,eaches,B,16,6,chocolate_eggz.png,0,"/>
+          <record data= "A432 S010,,125,,108,00,11,Chocolate candy bars,Cases - Dry good,UPC 2,3,cases,K,12,4,chocolate_candy.png,0,"/>
+      </response>
+      <response  name="Cycle Counting: Reserve Chain" endOfRecord="\n" expression="prTaskLUTCycleCountingReserveChain.*">
+          <record data= "L9999,P99999,I9,10,0,"/>
+          <record data= "L8888,P88888,I8,10,0,"/>
+          <record data= "L7777,P77777,I7,10,0,"/>
+      </response>
+   
+      <!-- Putaway LUT Responses -->
+      <response  name="Putaway: Valid Regions" endOfRecord="\n" expression="prTaskLUTForkValidPutAwayRegions.*">
+          <record data= "1,put away region 1,0,"/>
+          <record data= "2,put away region 2,0,"/>
+          <record data= "3,put away region 3,0,"/>
+      </response>
+      <response  name="Putaway: Request Region" endOfRecord="\n" expression="prTaskLUTForkRequestPutAwayRegion.*">
+          <record data= "0,"/>
+      </response>
+      <response  name="Putaway: Region Configuration" endOfRecord="\n" expression="prTaskLUTForkPutAwayRegionConfiguration.*">
+          <record data= "1,put away region 1,0,1,1,0,0,1,1,0,2,5,5,2,1,exception location,0,0,"/>
+      </response>
+      <response  name="Putaway: Verify License Error" endOfRecord="\n" expression="prTaskLUTForkVerifyLicense.*'AAAAA'.*">
+          <record data= "1,invalid license"/>
+      </response>
+      <response  name="Putaway: Verify License" endOfRecord="\n" expression="prTaskLUTForkVerifyLicense.*">
+          <record data= "0,"/>
+      </response>
+      <response  name="Putaway: Get License" endOfRecord="\n" expression="prTaskLUTForkGetPutAway.*">
+          <record data= "AB123,2,123,12345,PRE 1,A 1,POST 1,S 1,00,item number,description,100,15.5,0,"/>
+          <record data= "AB456,2,456,12456,PRE 1,A 1,POST 1,S 2,00,item number,description,s,15.5,0,"/>
+          <record data= "AB789,2,789,12789,,,,,,item number,description,100,15.5,0,"/>
+      </response>
+      <response  name="Putaway: Alternate Location" endOfRecord="\n" expression="prTaskLUTForkGetAlternatePutLocation.*">
+          <record data= "ALT PRE 1,ALT A 1,ALT POST 1,ALT S 1,99,ALTSCAN,Alt Location,0,"/>
+      </response>
+      <response  name="Putaway: Put License" endOfRecord="\n" expression="prTaskLUTForkPutAwayLicense.*">
+          <record data= "0,"/>
+      </response>
+   
+      
+      <!-- Put to store LUT Responses -->
+      <response  name="Put to Store: Valid Regions" endOfRecord="\n" expression="prTaskLUTPtsValidRegions.*">
+          <record data= "1,put to store region 1,0,"/>
+          <record data= "2,put to store region 2,0,"/>
+          <record data= "3,put to store region 3,0,"/>
+      </response>
+      <response  name="Put to Store: Region Configuration" endOfRecord="\n" expression="prTaskLUTPtsGetRegionConfiguration.*">
+          <record data= "1,put to store region 1,1,1,1,1,1,1,3,0,5,0,1,5,1,5,2,1,pre,aisle,post,slot,1,0,"/>
+      </response>
+      <response  name="Put to Store: Get Flow Through Location" endOfRecord="\n" expression="prTaskLUTPtsGetFTLocation.*">
+          <record data= ",0,"/>
+      </response>
+      <response  name="Put to Store: Verify License (Multiple)" endOfRecord="\n" expression="prTaskLUTVerifyLicense.*'11111'.*">
+          <record data= "1111a,1,"/>
+          <record data= "1111b,1,"/>
+      </response>
+      <response  name="Put to Store: Verify License" endOfRecord="\n" expression="prTaskLUTPtsVerifyLicense.*">
+          <record data= ",0,"/>
+      </response>
+      <response  name="Put to Store: Get Assignment" endOfRecord="\n" expression="prTaskLUTPtsGetAssignment.*">
+          <record data= "999,5,2,3,RL002,00,EL002,99,123,98,0,"/>
+      </response>
+      <response  name="Put to Store: Get Puts" endOfRecord="\n" expression="prTaskLUTPtsGetPuts.*">
+          <record data= "N,1,991,22222,,1,,S 1,01,99,SCAN99,5,0,ITEM123,Description 123,,1,5,0,"/>
+          <record data= "N,11,991,22222,,1,,S 1,01,99,SCAN99,5,0,ITEM456,Description 456,,1,3,0,"/>
+          <record data= "N,2,992,22222,,1,,S 2,02,99,SCAN99,3,0,ITEM123,Description 123,,1,5,0,"/>
+          <record data= "N,12,992,22222,,1,,S 2,02,99,SCAN99,3,0,ITEM456,Description 456,,1,3,0,"/>
+          <record data= "N,3,993,22222,,1,,S 3,03,99,SCAN99,1,0,ITEM123,Description 123,,1,5,0,"/>
+          <record data= "N,13,993,22222,,1,,S 3,03,99,SCAN99,1,0,ITEM456,Description 456,,1,3,0,"/>
+          <record data= "N,4,994,22222,,1,,S 4,04,99,SCAN99,7,0,ITEM123,Description 123,,1,5,0,"/>
+          <record data= "N,14,994,22222,,1,,S 4,04,99,SCAN99,7,0,ITEM456,Description 456,,1,3,0,"/>
+          <record data= "N,5,995,22222,,2,,S 5,05,99,SCAN99,3,0,ITEM123,Description 123,,1,5,0,"/>
+          <record data= "N,15,995,22222,,2,,S 5,05,99,SCAN99,3,0,ITEM456,Description 456,,1,3,0,"/>
+          <record data= "N,6,996,22222,,3,,S 6,06,99,SCAN99,2,0,ITEM123,Description 123,,1,5,0,"/>
+          <record data= "N,16,996,22222,,3,,S 6,06,99,SCAN99,2,0,ITEM456,Description 456,,1,3,0,"/>
+          <record data= "N,7,997,22222,,4,,S 7,07,99,SCAN99,6,0,ITEM123,Description 123,,1,5,0,"/>
+          <record data= "N,17,997,22222,,4,,S 7,07,99,SCAN99,6,0,ITEM456,Description 456,,1,3,0,"/>
+      </response>
+      <response  name="Put to Store: Update Status" endOfRecord="\n" expression="prTaskLutPtsUpdateStatus.*">
+          <record data= "0,"/>
+      </response>
+
+      <response  name="Put to Store: Put Item" endOfRecord="\n" expression="prTaskLUTPtsPut.*">
+          <record data= "0,"/>
+      </response>
+
+      <response  name="Put to Store: Containers - Close multiple containers (done)" endOfRecord="\n" expression="prTaskLUTPtsContainer.*'1','991','333'.*">
+          <record data= ",,,0,"/>
+      </response>
+      <response  name="Put to Store: Containers - Close multiple containers" endOfRecord="\n" expression="prTaskLUTPtsContainer.*'1','991'.*">
+          <record data= "1,111,111S,8,Specify a container"/>
+          <record data= "2,222,222S,8,Specify a container"/>
+          <record data= "3,333,333S,8,Specify a container"/>
+          <record data= "4,444,444S,8,Specify a container"/>
+          <record data= "5,555,555S,8,Specify a container"/>
+      </response>
+
+      <response  name="Put to Store: Print New Container" endOfRecord="\n" expression="prTaskLUTPtsPrintContainerLabel.*">
+          <record data= "0,"/>
+      </response>
+      <response  name="Put to Store: Print Exception Label" endOfRecord="\n" expression="prTaskLUTPtsPrintExceptionLabel.*">
+          <record data= "0,"/>
+      </response>
+
+
+      <response  name="Put to Store: Containers - Review container" endOfRecord="\n" expression="prTaskLUTPtsContainer.*'0'.*">
+          <record data= "LOC1,1110,1110S,0,"/>
+          <record data= "LOC1,1111,1111S,0,"/>
+          <record data= "LOC1,1112,1112S,0,"/>
+          <record data= "LOC1,1113,1113S,0,"/>
+          <record data= "LOC1,1114,1114S,0,"/>
+      </response>
+      <response  name="Put to Store: Containers - Close specify container - valid" endOfRecord="\n" expression="prTaskLUTPtsContainer.*'1','992','11111'.*">
+          <record data= ",,,0,"/>
+      </response>
+      <response  name="Put to Store: Containers - Close specify container" endOfRecord="\n" expression="prTaskLUTPtsContainer.*'1','992'.*">
+          <record data= ",,,3,Specify a container"/>
+      </response>
+      <response  name="Put to Store: Containers - Close multiple containers (1)" endOfRecord="\n" expression="prTaskLUTPtsContainer.*'1','994'.*">
+          <record data= "1,111,111S,8,Specify a container"/>
+      </response>
+      <response  name="Put to Store: Containers - Open container" endOfRecord="\n" expression="prTaskLUTPtsContainer.*'2'.*">
+          <record data= "LOC1,111,111S,0,"/>
+      </response>
+      <response  name="Put to Store: Containers - general" endOfRecord="\n" expression="prTaskLUTPtsContainer.*">
+          <record data= ",,,0,"/>
+      </response>
+
+      <response  name="Put to Store: Expected Residuals" endOfRecord="\n" expression="prTaskLUTPtsGetExpectedResidual.*">
+          <record data= "Lic1,Item1,Item 1,9,N,0,"/>
+          <record data= "Lic2,Item2a,Item 2a,0,N,0,"/>
+          <record data= "Lic2,Item2b,Item 2b,0,N,0,"/>
+          <record data= "Lic3,Item3a,Item 3a,0,N,0,"/>
+          <record data= "Lic3,Item3b,Item 3b,0,N,0,"/>
+          <record data= "Lic4,Item1,Item 1,0,N,0,"/>
+      </response>
+    
+      <response  name="Put to Store: Stop Assignment" endOfRecord="\n" expression="prTaskLUTPtsStopAssignment.*">
+          <record data= "0,"/>
+      </response>
+      <response  name="Put to Store: Pass Assignment" endOfRecord="\n" expression="prTaskLUTPtsPassAssignment.*">
+          <record data= "0,"/>
+      </response>
+   
+   
+      <!-- Replenishment LUT Responses -->
+      <response  name="Replenishment: Valid Regions" endOfRecord="\n" expression="prTaskLUTForkValidReplenishmentRegions.*">
+          <record data= "1,replenishment region 1,0,"/>
+          <record data= "2,replenishment region 2,0,"/>
+          <record data= "3,replenishment region 3,0,"/>
+      </response>
+      <response  name="Replenishment: Request Region" endOfRecord="\n" expression="prTaskLUTForkRequestReplenishmentRegion.*">
+          <record data= "0,"/>
+      </response>
+      <response  name="Replenishment: Region Configuration" endOfRecord="\n" expression="prTaskLUTForkReplenishmentRegionConfiguration.*">
+          <record data= "1,replenishment region 1,1,0,0,0,0,0,3,2,2,exception location,0,0,"/>
+      </response>
+      <response  name="Replenishment: Get Replenishment" endOfRecord="\n" expression="prTaskLUTForkGetReplenishment.*">
+          <record data= "301532,0000001532,1,1,768,Item 768 Site 1,10,pre 1,1,post 1,483,11532,1011532,pre 2,2,post 2,768,768,768,769,10,0,"/>
+      </response>
+      <response  name="Replenishment: Replenish" endOfRecord="\n" expression="prTaskLUTForkReplenishmentLicense.*">
+          <record data= "0,"/>
+      </response>
+      
+      <!-- Line Loading LUT Responses -->
+      <response  name="Line Loading: Valid Regions" endOfRecord="\n" expression="prTaskLUTLineLoadingValidRegions.*">
+          <record data= "1,line loading region 1,0,"/>
+          <record data= "2,line loading region 2,0,"/>
+          <record data= "3,line loading region 3,0,"/>
+      </response>
+      <response  name="Line Loading: Request Region" endOfRecord="\n" expression="prTaskLUTLineLoadingRequestRegion.*">
+          <record data= "0,"/>
+      </response>
+      <response  name="Line Loading: Region Configuration" endOfRecord="\n" expression="prTaskLUTLineLoadingRegionConfiguration.*">
+          <record data= "1,line loading region 1,1,1,0,"/>
+      </response>
+      <response  name="Line Loading: Confirm Spur" endOfRecord="\n" expression="prTaskLUTLineLoadingConfirmSpur.*">
+          <record data= "S10,0,"/>
+      </response>
+      <response  name="Line Loading: Carton - Already Loaded" endOfRecord="\n" expression="prTaskLUTLineLoadingCarton.*'999'.*">
+          <record data= "R1,S2,2,'Carton already loaded, move carton?'"/>
+      </response>
+      <response  name="Line Loading: Carton" endOfRecord="\n" expression="prTaskLUTLineLoadingCarton.*">
+          <record data= "R1,S2,0,"/>
+      </response>
+      <response  name="Line Loading: Pallet" endOfRecord="\n" expression="prTaskLUTLineLoadingPallet.*">
+          <record data= "0,"/>
+      </response>
+      <response  name="Line Loading: Close Stop" endOfRecord="\n" expression="prTaskLUTLineLoadingCloseStop.*">
+          <record data= "R91,S91,99,0,"/>
+      </response>
+      
+      <!-- Loading LUT Responses -->
+      <response  name="Loading: Valid Regions" endOfRecord="\n" expression="prTaskLUTLoadingValidRegions.*">
+          <record data= "1,loading region 1,0,"/>
+          <record data= "2,loading region 2,0,"/>
+          <record data= "3,loading region 3,0,"/>
+      </response>
+      <response  name="Loading: Request Region" endOfRecord="\n" expression="prTaskLUTLoadingRequestRegion.*">
+          <record data= "0,"/>
+      </response>
+      <response  name="Loading: Region Configuration" endOfRecord="\n" expression="prTaskLUTLoadingRegionConfiguration.*">
+          <record data= "1,loading region 1,0,5,3,3,0,"/>
+      </response>
+      <response  name="Loading: Request Load" endOfRecord="\n" expression="prTaskLUTLoadingRequestRoute.*">
+          <record data= "1,123,1,12345,5,13,Route has 13 Containers,0,"/>
+      </response>
+      <response  name="Loading: Request License" endOfRecord="\n" expression="prTaskLUTLoadingRequestContainer.*">
+          <record data= "1,A12345,12345,N,1,0,"/>
+          <record data= "1,B12345,12345,N,1,0,"/>
+          <record data= "1,A11111,11111,N,1,0,"/>
+          <record data= "1,A22222,22222,N,1,0,"/>
+          <record data= "1,A33333,33333,N,1,0,"/>
+      </response>
+      <response  name="Loading: Update License" endOfRecord="\n" expression="prTaskLUTLoadingUpdateContainer.*">
+          <record data= "0,0,"/>
+      </response>
+      <response  name="Loading: Complete Load" endOfRecord="\n" expression="prTaskLUTLoadingCompleteRoute.*">
+          <record data= "0,"/>
+      </response>
+      <response  name="Loading: Print Report" endOfRecord="\n" expression="prTaskLUTLoadingPrint">
+          <record data= "0,"/>
+      </response>
+      
+      
+      <!-- Selection LUT Responses -->
+      <response  name="Selection: Region Permissions for Work Type" endOfRecord="\n" expression="prTaskLUTRegionPermissionsForWorkType.*">
+          <record data= "1,selection region 1,0,"/>
+          <record data= "2,selection region 2,0,"/>
+          <record data= "3,selection region 3,0,"/>
+      </response>
+      <response  name="Selection: Picking Region" endOfRecord="\n" expression="prTaskLUTPickingRegion.*">
+          <record data= "1,dry grocery,1,1,1,1,1,0,0,0,1,1,0,0,0,1,1,4,0,1,0,,,,,1,0,0,2,0,0,"/>
+      </response>
+      <response name="Selection: Get Assignment" endOfRecord="\n" expression="prTaskLUTGetAssignment.*">
+          <record data="1,0,111,Store 111,1,15,R12,0,0,0,Override summary prompt,0," />
+          <record data="1,0,222,Store 222,2,15,R12,0,0,0,Override summary prompt,0," />
+      </response>
+      <response name="Selection: Get Picks" endOfRecord="\n" expression="prTaskLUTGetPicks.*">
+          <record data="N,0,1,L1,1,,A 1,,S 1,5,,ITEM11,0,0.0,0.0,0,00,,,,,,111,Store 111,0,,store,,0,0,,,0,0,0,0,0," />
+          <record data="N,0,1,L1,1,,A 1,,S 1,5,,ITEM11,0,0.0,0.0,0,00,,,,,,222,Store 222,0,,store,,0,0,,,0,0,0,0,0," />
+          <record data="N,0,1,L2,1,,A 1,,S 2,5,,ITEM12,0,0.0,0.0,0,00,,,,,,111,Store 111,0,,store,,0,0,,,0,0,0,0,0," />
+          <record data="N,0,1,L2,1,,A 2,,S 2,5,,ITEM12,0,0.0,0.0,0,00,,,,,,222,Store 222,0,,store,,0,0,,,0,0,0,0,0," />
+          <record data="N,0,1,L3,1,,A 2,,S 3,5,,ITEM13,0,0.0,0.0,0,00,,,,,,111,Store 111,0,,store,,0,0,,,0,0,0,0,0," />
+          <record data="N,0,1,L4,1,,A 2,,S 4,5,,ITEM14,0,0.0,0.0,0,00,,,,,,222,Store 222,0,,store,,0,0,,,0,0,0,0,0," />
+      </response>
+      <response  name="Selection: Update Status" endOfRecord="\n" expression="prTaskLUTUpdateStatus.*">
+          <record data= "0,"/>
+      </response>
+       <response  name="Selection: Picked" endOfRecord="\n" expression="prTaskLUTPicked.*">
+          <record data= "0,"/>
+      </response>
+      <response  name="Selection: Request Work" endOfRecord="\n" expression="prTaskLUTRequestWork.*">
+          <record data= "1234A,0,"/>
+          <record data= "1234B,0,"/>
+          <record data= "1234C,0,"/>
+          <record data= "1234D,0,"/>
+      </response>
+      <response  name="Selection: Deliver Assignment" endOfRecord="\n" expression="prTaskLUTGetDeliveryLocation.*">
+           <record data="Location 1,00,1,1,0,0,"/>
+      </response>
+       <response  name="Selection: Stop Assignment" endOfRecord="\n" expression="prTaskLUTStopAssignment*">
+          <record data= "0,"/>
+      </response>
+      <response  name="Selection: Lot Tracking send lot" endOfRecord="\n" expression="prTaskLUTSendLot.*">
+          <record data= "1234A, 0,"/>
+      </response>
+      <response  name="Selection: Lot Tracking failed lot" endOfRecord="\n" expression="prTaskLUTFailedLotNumber.*">
+          <record data= "0,"/>
+      </response>
+      <response  name="Selection: Lot Tracking valid lots" endOfRecord="\n" expression="prTaskLUTValidLots.*">
+          <record data= "1234A, 0,"/>
+          <record data= "1234B, 0,"/>
+      </response>
+      <response  name="Selection: Get Container" endOfRecord="\n" expression="prTaskLUTContainer.*">
+         <record data= "1,0000000001,01,111,Store 111,,O,0,0,"/>
+         <record data= "2,0000000002,02,222,Store 222,,O,0,0,"/>
+      </response>
+      <response  name="Selection: Print" endOfRecord="\n" expression="prTaskLUTPrint.*">
+          <record data= "0,"/>
+      </response>
+      <response  name="Selection: Verify Location - not replenished" endOfRecord="\n" expression="prTaskLUTVerifyReplenishment.*'L2'.*">
+          <record data= "0,0,"/>
+      </response>
+      <response  name="Selection: Verify Location - replenished" endOfRecord="\n" expression="prTaskLUTVerifyReplenishment.*">
+          <record data= "1,0,"/>
+      </response>
+   
+    </responseQueue>
+</testData>
