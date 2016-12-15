@@ -5,7 +5,7 @@ Created on Dec 15, 2016
 '''
 from vocollect_core.task.task import TaskBase
 from vocollect_core.dialog.functions import prompt_ready, prompt_alpha_numeric,\
-    prompt_yes_no, prompt_only
+    prompt_yes_no, prompt_only, prompt_digits
 from vocollect_core.utilities.localization import itext
 DUMMY = 'dummyState'
 #state
@@ -37,7 +37,7 @@ class BreakageTask(TaskBase):
                                                             1, 10, False, True)
         
     def confirmItemNumber(self):
-         #prompt_ready('confirm item state')
+        #prompt_ready('confirm item state')
         for self._match in self._pickLut:
             item, description = self._match['itemNumber'], self._match['description']
             if item == self._itemNumber and int(self._match['qtyPicked']) > 0:
@@ -50,8 +50,18 @@ class BreakageTask(TaskBase):
         self.next_state = GET_ITEM_NUMBER
         
     def getBrokenQuantity(self):
-        prompt_ready('get broken quantity state')
-        
+        self._breakageQty = prompt_digits(itext('selection.breakage.quantity'),
+                                          itext('selection.breakage.quantity.help'),
+                                          1,10,True,False)
+        if int(self._breakageQty) == 0:
+            prompt_only(itext('selection.breakage.abort'))
+            self.next_state = ''
+        else:
+            pickedQty = self._match['qtyPicked']
+            if int(self._breakageQty) > int(pickedQty):
+                prompt_ready(itext('selection.breakage.quantity.too.large',
+                                   self._breakageQty, pickedQty))
+                self.next_state = self.current_state
     def transmitBreakageData(self):
         prompt_ready('transmit breakage data state')
         
