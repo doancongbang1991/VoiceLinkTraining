@@ -458,6 +458,7 @@
     <vocab word="repeat last put" enabled="false" echo="false" />
     <vocab word="VLINK_SCAN_VOCAB" enabled="false" echo="false" />
     <vocab word="country code" enabled="false" echo="false" />
+    <vocab word="breakage" enabled="false" echo="false" />
   </vocabulary>
   <phoneticSubstitutions>
     <phonetic phrase=" " substitution="mellemrum" display="mellemrum" locale="da_DK" />

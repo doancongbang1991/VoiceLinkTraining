@@ -395,12 +395,12 @@
           <record data="1,0,222,Store 222,2,15,R12,0,0,0,Override summary prompt,0," />
       </response>
       <response name="Selection: Get Picks" endOfRecord="\n" expression="prTaskLUTGetPicks.*">
-          <record data="N,0,1,L1,1,,A 1,,S 1,5,,ITEM11,0,0.0,0.0,0,00,12,13,,,,111,Store 111,0,,store,,0,0,,,0,0,0,0,US,0," />
-          <record data="N,0,1,L1,1,,A 1,,S 1,5,,ITEM11,0,0.0,0.0,0,00,12,13,,,,222,Store 222,0,,store,,0,0,,,0,0,0,0,VN,0," />
-          <record data="N,0,1,L2,1,,A 1,,S 2,5,,ITEM12,0,0.0,0.0,0,00,12,13,,,,111,Store 111,0,,store,,0,0,,,0,0,0,0,GB,0," />
-          <record data="N,0,1,L2,1,,A 2,,S 2,5,,ITEM12,0,0.0,0.0,0,00,12,13,,,,222,Store 222,0,,store,,0,0,,,0,0,0,0,US,0," />
-          <record data="N,0,1,L3,1,,A 2,,S 3,5,,ITEM13,0,0.0,0.0,0,00,12,13,,,,111,Store 111,0,,store,,0,0,,,0,0,0,0,MX,0," />
-          <record data="N,0,1,L4,1,,A 2,,S 4,5,,ITEM14,0,0.0,0.0,0,00,12,13,,,,222,Store 222,0,,store,,0,0,,,0,0,0,0,VN,0," />
+          <record data="N,0,1,L1,1,,A 1,,S 1,5,,ITEM11,0,0.0,0.0,0,00,12,13,ITEM11,,,111,Store 111,0,,store,,0,0,,,0,0,0,0,US,0," />
+          <record data="N,0,1,L1,1,,A 2,,S 1,5,,ITEM11,0,0.0,0.0,0,00,12,13,ITEM11,,,222,Store 222,0,,store,,0,0,,,0,0,0,0,VN,0," />
+          <record data="N,0,1,L2,1,,A 3,,S 2,5,,ITEM12,0,0.0,0.0,0,00,12,13,ITEM12,,,111,Store 111,0,,store,,0,0,,,0,0,0,0,GB,0," />
+          <record data="N,0,1,L2,1,,A 4,,S 2,5,,ITEM12,0,0.0,0.0,0,00,12,13,ITEM12,,,222,Store 222,0,,store,,0,0,,,0,0,0,0,US,0," />
+          <record data="N,0,1,L3,1,,A 4,,S 3,5,,ITEM13,0,0.0,0.0,0,00,12,13,ITEM13,,,111,Store 111,0,,store,,0,0,,,0,0,0,0,MX,0," />
+          <record data="N,0,1,L4,1,,A 5,,S 4,5,,ITEM14,0,0.0,0.0,0,00,12,13,ITEM14,,,222,Store 222,0,,store,,0,0,,,0,0,0,0,VN,0," />
       </response>
       <response  name="Selection: Update Status" endOfRecord="\n" expression="prTaskLUTUpdateStatus.*">
           <record data= "0,"/>
