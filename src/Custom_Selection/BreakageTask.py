@@ -7,6 +7,8 @@ from vocollect_core.task.task import TaskBase
 from vocollect_core.dialog.functions import prompt_ready, prompt_alpha_numeric,\
     prompt_yes_no, prompt_only, prompt_digits
 from vocollect_core.utilities.localization import itext
+from common.VoiceLinkLut import VoiceLinkLut
+from vocollect_core.utilities import obj_factory
 DUMMY = 'dummyState'
 #state
 GET_ITEM_NUMBER         = 'getItemNumber'
@@ -22,6 +24,7 @@ class BreakageTask(TaskBase):
         
         self.name  = 'breakage'
         self._pickLut = pickLut
+        self._breakageLut = obj_factory.get(VoiceLinkLut, 'prTaskLUTBreakage')
         
     def initializeStates(self):
         
@@ -63,7 +66,12 @@ class BreakageTask(TaskBase):
                                    self._breakageQty, pickedQty))
                 self.next_state = self.current_state
     def transmitBreakageData(self):
-        prompt_ready('transmit breakage data state')
+        result = self._breakageLut.do_transmit(self._itemNumber, self._breakageQty)
+        
+        if result < 0:
+            self.next_state = self.current_state
+        elif result > 0:
+            self.next_state = GET_ITEM_NUMBER
         
         
         

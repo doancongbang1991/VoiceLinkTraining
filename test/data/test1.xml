@@ -443,6 +443,8 @@
       <response  name="Selection: Verify Location - replenished" endOfRecord="\n" expression="prTaskLUTVerifyReplenishment.*">
           <record data= "1,0,"/>
       </response>
-   
+   	<response name="Selection: Breakage" endOfRecord="\n" expression="prTaskLUTBreakage.*">
+   		<record data="0,"/>
+   	</response>
     </responseQueue>
 </testData>
