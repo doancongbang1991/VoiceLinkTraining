@@ -11,19 +11,38 @@ ms.load_server_responses("Test/Data/test1.xml")
 ms.set_server_response('Y', 'prTaskODR')
 
 #Post responses
-mock_catalyst.post_dialog_responses('ready',
-                                    '3!',
-                                    'yes',
-                                    '1!',
-                                    'yes',
-                                    'ready',
-                                    'no',
-                                    'ready',
-                                    'ready',
-                                    'ready',
-                                    '00!',
-                                    '12!',
-                                    '5!')
+#mock_catalyst.post_dialog_responses('ready',
+#                                    '3!',
+#                                    'yes',
+#                                    '1!',
+#                                    'yes',
+#                                    'ready',
+#                                    'no',
+#                                    'ready',
+#                                    'ready',
+#                                    'ready',
+#                                    '00!',
+#                                    '12!',
+#                                    '5!')
+
+#exam 2
+#mock_catalyst.post_dialog_responses('ready',
+#                                    '2!',
+#                                    'yes',
+#                                    '1234!',
+#                                    'yes',
+#                                    '3!',
+#                                    'yes',
+#                                    '1!',
+#                                    'yes',
+#                                    'ready',
+#                                    'no',
+#                                    'ready',
+#                                    'ready',
+#                                    'ready',
+#                                    '00!',
+#                                    'skip slot',
+#                                    'no')
 
 try:
     main()

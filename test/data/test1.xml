@@ -21,9 +21,9 @@
           <record data= "0,"/>
       </response>
 
-      <response  name="Core: Valid Vehicle Types" endOfRecord="\n" expression="prTaskLUTCoreValidVehicleTypes.*">
-          <record data= ",,0,0,"/>
-      </response>
+<!--       <response  name="Core: Valid Vehicle Types" endOfRecord="\n" expression="prTaskLUTCoreValidVehicleTypes.*"> -->
+<!--           <record data= ",,0,0,"/> -->
+<!--       </response> -->
       
       <response  name="Core: Valid Vehicle Types" endOfRecord="\n" expression="prTaskLUTCoreValidVehicleTypes.*">
           <record data= "1,fork lift,0,0,"/>
