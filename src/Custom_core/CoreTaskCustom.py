@@ -14,6 +14,7 @@ class CoreTask_Custom(CoreTask):
     def request_configurations(self):
         ''' request core configuration LUT '''
         self.sign_off_allowed = True
+        gw.words['change vehicle'].enabled = False
         gw.words['sign off'].enabled = False
         #gw.words['take a break'].enabled = False
         if not self._transmit_configuration():

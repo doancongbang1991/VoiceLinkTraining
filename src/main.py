@@ -1,5 +1,6 @@
 import Custom_Common.VoiceLinkLutCustom #@UnusedImport
 import Custom_core.CoreTaskCustom #@UnusedImport
+import Custom_core.VehicleTaskCustom #@UnusedImport
 import Custom_Selection.PickPromptMultipleCustom #@UnusedImport
 import Custom_Selection.SelectionVocabularyCustom #@UnusedImport
 import Custom_Selection.PickAssignmentCustom #@UnusedImport

@@ -8,13 +8,13 @@ from vocollect_core.utilities import class_factory
 from vocollect_core.dialog.functions import prompt_digits_required, prompt_only
 from vocollect_core.utilities.localization import itext
 
-PVID_VERYFICATION =  "pvidVerification"
+PVID_VERIFICATION =  "pvidVerification"
 
 class PickPromptMultipleTask_Custom(PickPromptMultipleTask):
     
     def initializeStates(self):
         super(PickPromptMultipleTask_Custom,self).initializeStates()
-        self.addState(PVID_VERYFICATION, self.pvid_verification, SLOT_VERIFICATION)
+        self.addState(PVID_VERIFICATION, self.pvid_verification, SLOT_VERIFICATION)
     
     def pvid_verification(self):
         if self._pvid != '':
@@ -23,9 +23,9 @@ class PickPromptMultipleTask_Custom(PickPromptMultipleTask):
                                             [self._pvid],
                                             [self._picks[0]['scannedProdID']], 
                                             {'skip slot' : False})
-        if result[0] == 'skip slot':
-            self.next_state = PVID_VERYFICATION
-            self._skip_slot()
+            if result[0] == 'skip slot':
+                self.next_state = PVID_VERIFICATION
+                self._skip_slot()
             
     def _verify_product_slot(self, result, is_scanned):
         '''Verifies product/slot depending on spoken check digit or spoken/scanned pvid or ready spoken'''
